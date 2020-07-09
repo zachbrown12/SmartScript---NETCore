@@ -1,0 +1,1838 @@
+[
+  {
+    "Id": 1,
+    "Name": "Fosamax",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 2,
+    "Name": "Zovirax",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 3,
+    "Name": "Zovirax",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 4,
+    "Name": "Albuterol Inhalation Solution",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 5,
+    "Name": "ProAir RespiClick Powder Inhaler",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 6,
+    "Name": "Aclovate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 7,
+    "Name": "Uroxatral",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 8,
+    "Name": "Panretin gel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 9,
+    "Name": "Zyloprim",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 10,
+    "Name": "Xanax",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 11,
+    "Name": "Hexalen capsules",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 12,
+    "Name": "Cordarone",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 13,
+    "Name": "Elavil",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 14,
+    "Name": "Exforge",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 15,
+    "Name": "Norvasc",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 16,
+    "Name": "Exforge HCT",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 17,
+    "Name": "Lotrel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 18,
+    "Name": "Amoxapine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 19,
+    "Name": "Arimidex",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 20,
+    "Name": "Hyzaar",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 21,
+    "Name": "Artificial Tears 1.4% drops (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 22,
+    "Name": "Aspirin EC Tablet (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 23,
+    "Name": "Tenormin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 24,
+    "Name": "Tenoretic",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 25,
+    "Name": "Lipitor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 26,
+    "Name": "Diprolene Cream",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 27,
+    "Name": "Imuran",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 28,
+    "Name": "Astepro",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 29,
+    "Name": "Astelin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 30,
+    "Name": "Lioresal",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 31,
+    "Name": "Donnatal Tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 32,
+    "Name": "Lotensin HCT",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 33,
+    "Name": "Lotensin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 34,
+    "Name": "Tessalon Capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 35,
+    "Name": "Benzonatate capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 36,
+    "Name": "Benztropine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 37,
+    "Name": "Urecholine",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 38,
+    "Name": "Casodex",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 39,
+    "Name": "Ziac",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 40,
+    "Name": "Brimonidine Tartrate 0.2% Solution",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 41,
+    "Name": "Bromocriptine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 42,
+    "Name": "Pulmicort Respules",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 43,
+    "Name": "Wellbutrin SR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 44,
+    "Name": "Wellbutrin XL",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 45,
+    "Name": "Wellbutrin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 46,
+    "Name": "Buspar",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 47,
+    "Name": "Fortical Nasal Spray",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 48,
+    "Name": "Rocaltrol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 49,
+    "Name": "PhosLo gelcaps",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 50,
+    "Name": "Atacand HCT",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 51,
+    "Name": "Atacand",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 52,
+    "Name": "Capsaicin Cream, 0.035% (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 53,
+    "Name": "Capoten",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 54,
+    "Name": "Tegretol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 55,
+    "Name": "Sinemet CR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 56,
+    "Name": "Sinemet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 57,
+    "Name": "Coreg tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 58,
+    "Name": "Zyrtec OTC",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 59,
+    "Name": "Evoxac",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 60,
+    "Name": "Chlordiazepoxide capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 61,
+    "Name": "Chlorpromazine HCL",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 62,
+    "Name": "Chlorthalidone tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 63,
+    "Name": "Prevalite Powder",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 64,
+    "Name": "Pletal",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 65,
+    "Name": "Celexa",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 66,
+    "Name": "Cleocin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 67,
+    "Name": "Klonopin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 68,
+    "Name": "Catapres",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 69,
+    "Name": "Catapres TTS -3",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 70,
+    "Name": "Plavix",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 71,
+    "Name": "Lotrisone Cream",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 72,
+    "Name": "Colestid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 73,
+    "Name": "Dacogen",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 74,
+    "Name": "Focalin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 75,
+    "Name": "Dextroamphetamine sulfate ER capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 76,
+    "Name": "Adderall XR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 77,
+    "Name": "Dextroamphetamine-Amphetamine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 78,
+    "Name": "Valium",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 79,
+    "Name": "Voltaren",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 80,
+    "Name": "Voltaren XR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 81,
+    "Name": "Bentyl",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 83,
+    "Name": "Lanoxin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 84,
+    "Name": "Dilacor XR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 85,
+    "Name": "Cardizem CD",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 86,
+    "Name": "Lomotil",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 87,
+    "Name": "Lonox",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 88,
+    "Name": "Depakote",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 89,
+    "Name": "Aricept",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 90,
+    "Name": "Trusopt",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 91,
+    "Name": "Cardura",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 92,
+    "Name": "Doxepin capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 93,
+    "Name": "Vasotec",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 94,
+    "Name": "Vaseretic",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 95,
+    "Name": "Epinephrine Auto Injector .3mg",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 96,
+    "Name": "Eplerenone tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 97,
+    "Name": "Lexapro",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 100,
+    "Name": "Nexium",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 101,
+    "Name": "Estrace",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 102,
+    "Name": "Ogen",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 103,
+    "Name": "Lunesta",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 104,
+    "Name": "Lodine",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 106,
+    "Name": "Pepcid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 107,
+    "Name": "Plendil ER",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 108,
+    "Name": "Tricor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 109,
+    "Name": "Lofibra",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 110,
+    "Name": "Trilipix",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 111,
+    "Name": "Ferrous Sulfate EC tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 112,
+    "Name": "Proscar",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 113,
+    "Name": "Flecainide Acetate tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 114,
+    "Name": "Diflucan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 115,
+    "Name": "Fluoxetine Tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 116,
+    "Name": "Prozac",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 117,
+    "Name": "Flonase (50 mcg)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 118,
+    "Name": "Fluvoxamine Maleate tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 120,
+    "Name": "Folic Acid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 121,
+    "Name": "Lasix",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 122,
+    "Name": "Neurontin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 123,
+    "Name": "Lopid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 124,
+    "Name": "Amaryl",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 125,
+    "Name": "Glucotrol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 127,
+    "Name": "Micronase",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 128,
+    "Name": "Glucovance",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 129,
+    "Name": "Intuniv Extended Release Tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 130,
+    "Name": "Ultravate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 131,
+    "Name": "Haloperidol tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 132,
+    "Name": "Hydralazine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 133,
+    "Name": "Microzide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 134,
+    "Name": "hydrochlorothiazide tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 135,
+    "Name": "Hydrocortisone tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 136,
+    "Name": "Plaquenil",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 137,
+    "Name": "Hydrea",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 138,
+    "Name": "Hydroxyzine HCL tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 139,
+    "Name": "Vistaril",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 140,
+    "Name": "Motrin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 141,
+    "Name": "Imatinib tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 142,
+    "Name": "Indapamide tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 143,
+    "Name": "DuoNeb",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 144,
+    "Name": "Avapro",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 145,
+    "Name": "Avalide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 146,
+    "Name": "Isoniazid/INH",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 147,
+    "Name": "Imdur",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 148,
+    "Name": "Ismo",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 149,
+    "Name": "Monoket",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 150,
+    "Name": "Alaway OTC",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 151,
+    "Name": "Trandate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 152,
+    "Name": "Enulose",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 153,
+    "Name": "Lamictal",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 154,
+    "Name": "Prevacid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 155,
+    "Name": "Xalatan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 156,
+    "Name": "Femara",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 157,
+    "Name": "Xopenex",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 159,
+    "Name": "Keppra",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 160,
+    "Name": "Xyzal tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 161,
+    "Name": "Levoxyl",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 162,
+    "Name": "Synthroid",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 163,
+    "Name": "Lidocaine 2% viscous solution",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 164,
+    "Name": "Lidoderm",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 165,
+    "Name": "Cytomel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 166,
+    "Name": "Prinivil",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 167,
+    "Name": "Zestril",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 168,
+    "Name": "Prinzide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 169,
+    "Name": "Zestoretic",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 170,
+    "Name": "Lithium Carbonate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 171,
+    "Name": "Loperamide capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 172,
+    "Name": "Claritin OTC",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 173,
+    "Name": "Ativan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 174,
+    "Name": "Cozaar",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 175,
+    "Name": "Mevacor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 176,
+    "Name": "Loxapine capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 177,
+    "Name": "Magnesium Oxide tablet (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 178,
+    "Name": "Antivert",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 179,
+    "Name": "Provera",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 180,
+    "Name": "Mobic",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 181,
+    "Name": "Namenda Tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 182,
+    "Name": "Glucophage",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 184,
+    "Name": "Tapazole",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 185,
+    "Name": "Robaxin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 186,
+    "Name": "Methotrexate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 187,
+    "Name": "Metadate CD",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 188,
+    "Name": "Ritalin LA",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 189,
+    "Name": "Ritalin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 190,
+    "Name": "Reglan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 191,
+    "Name": "Zaroxolyn",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 192,
+    "Name": "Dutoprol Tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 193,
+    "Name": "Lopressor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 194,
+    "Name": "Glynase PresTab",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 195,
+    "Name": "Midodrine HCl tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 196,
+    "Name": "Minocin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 197,
+    "Name": "Dynacin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 198,
+    "Name": "Remeron",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 199,
+    "Name": "Elocon Cream",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 201,
+    "Name": "Singulair",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 202,
+    "Name": "CellCept",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 203,
+    "Name": "Nabumetone tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 204,
+    "Name": "Anaprox DS",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 205,
+    "Name": "Naprosyn",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 206,
+    "Name": "Niacin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 208,
+    "Name": "Niacin SA capsule (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 209,
+    "Name": "Nifedipine capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 210,
+    "Name": "Adalat cc",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 211,
+    "Name": "Nilandron tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 212,
+    "Name": "Nitroglycerin SA capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 213,
+    "Name": "Ortho Micronor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 214,
+    "Name": "Ovcon 35",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 215,
+    "Name": "Pamelor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 216,
+    "Name": "Nystatin powder",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 217,
+    "Name": "Nystatin tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 218,
+    "Name": "Zyprexa",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 219,
+    "Name": "Lovaza",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 220,
+    "Name": "Prilosec",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 221,
+    "Name": "Zofran ODT",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 222,
+    "Name": "Zofran",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 223,
+    "Name": "Oxandrin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 224,
+    "Name": "Ditropan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 225,
+    "Name": "Protonix",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 226,
+    "Name": "Paxil",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 227,
+    "Name": "Trental",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 228,
+    "Name": "Perphenazine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 229,
+    "Name": "Donnatal Elixir",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 230,
+    "Name": "Dibenzyline capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 231,
+    "Name": "Dilantin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 232,
+    "Name": "Actos",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 233,
+    "Name": "PNV Prenatal Multivitamin Plus Iron",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 234,
+    "Name": "K-Dur 20MEQ",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 237,
+    "Name": "SSKI oral solution",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 238,
+    "Name": "Mirapex tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 239,
+    "Name": "Pravachol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 240,
+    "Name": "prazosin capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 241,
+    "Name": "Prednisone tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 242,
+    "Name": "Mysoline",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 243,
+    "Name": "Prochlorperazine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 244,
+    "Name": "Progesterone capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 245,
+    "Name": "Rythmol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 247,
+    "Name": "Inderal",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 248,
+    "Name": "Propylthiouracil tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 249,
+    "Name": "Mestinon",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 250,
+    "Name": "Seroquel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 251,
+    "Name": "Accupril",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 252,
+    "Name": "Accuretic",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 253,
+    "Name": "Aciphex",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 254,
+    "Name": "Evista",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 255,
+    "Name": "Altace",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 256,
+    "Name": "Ranexa",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 257,
+    "Name": "Prandin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 258,
+    "Name": "Actonel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 259,
+    "Name": "Risperdal",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 260,
+    "Name": "Exelon",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 261,
+    "Name": "Requip tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 262,
+    "Name": "Crestor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 263,
+    "Name": "Zoloft",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 264,
+    "Name": "Revatio",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 265,
+    "Name": "Viagra",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 266,
+    "Name": "Zocor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 267,
+    "Name": "Aldactone",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 268,
+    "Name": "Aldactazide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 269,
+    "Name": "Ortho-Cyclen",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 270,
+    "Name": "Potassium Iodide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 271,
+    "Name": "Carafate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 272,
+    "Name": "Bactrim DS",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 273,
+    "Name": "Septra DS",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 274,
+    "Name": "Azulfidine",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 276,
+    "Name": "Imitrex (Tablets)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 277,
+    "Name": "Prograf",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 278,
+    "Name": "Tamoxifen citrate tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 279,
+    "Name": "Flomax",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 280,
+    "Name": "Micardis",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 281,
+    "Name": "Restoril",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 282,
+    "Name": "Hytrin",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 283,
+    "Name": "Depo-Testosterone",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 284,
+    "Name": "AndroGel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 285,
+    "Name": "Vogelxo gel packet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 288,
+    "Name": "Zanaflex",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 289,
+    "Name": "Detrol",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 290,
+    "Name": "Topamax tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 291,
+    "Name": "Qudexy XR capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 292,
+    "Name": "Ultracet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 293,
+    "Name": "Ultram",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 294,
+    "Name": "Mavik",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 295,
+    "Name": "Parnate 10mg tablets",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 296,
+    "Name": "Desyrel",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 297,
+    "Name": "Ortho-Tri-Cyclen",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 298,
+    "Name": "Ortho-Tri-Cyclen",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 299,
+    "Name": "Triamcinolone cream, 0.1%",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 300,
+    "Name": "Triamcinolone ointment, 0.1%",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 301,
+    "Name": "Dyrenium capsule",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 302,
+    "Name": "Dyazide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 303,
+    "Name": "Maxzide",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 304,
+    "Name": "Trifluoperazine HCl tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 305,
+    "Name": "Trospium Chloride tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 306,
+    "Name": "Valtrex tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 307,
+    "Name": "Depakene",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 308,
+    "Name": "Diovan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 309,
+    "Name": "Diovan HCT",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 310,
+    "Name": "Effexor",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 311,
+    "Name": "Calan",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 312,
+    "Name": "Calan-SR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 313,
+    "Name": "Isoptin-SR",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 314,
+    "Name": "Vitamin B Complex capsule (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 315,
+    "Name": "Vitamin B-6 tablet (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 316,
+    "Name": "Vitamin D3 capsule (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 317,
+    "Name": "Vitamin D3 tablet (OTC)",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 318,
+    "Name": "Jantoven",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 319,
+    "Name": "Accolate",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 320,
+    "Name": "Sonata",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 321,
+    "Name": "Zidovudine tablet",
+    "Use": null,
+    "Category": null
+  },
+  {
+    "Id": 322,
+    "Name": "Ambien",
+    "Use": null,
+    "Category": null
+  }
+]

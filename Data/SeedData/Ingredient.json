@@ -1,0 +1,1552 @@
+[
+  {
+    "Id": 1,
+    "DrugID": 1,
+    "ChemicalID": 1
+  },
+  {
+    "Id": 2,
+    "DrugID": 2,
+    "ChemicalID": 2
+  },
+  {
+    "Id": 3,
+    "DrugID": 3,
+    "ChemicalID": 2
+  },
+  {
+    "Id": 4,
+    "DrugID": 4,
+    "ChemicalID": 3
+  },
+  {
+    "Id": 5,
+    "DrugID": 5,
+    "ChemicalID": 4
+  },
+  {
+    "Id": 6,
+    "DrugID": 6,
+    "ChemicalID": 5
+  },
+  {
+    "Id": 7,
+    "DrugID": 7,
+    "ChemicalID": 6
+  },
+  {
+    "Id": 8,
+    "DrugID": 8,
+    "ChemicalID": 7
+  },
+  {
+    "Id": 9,
+    "DrugID": 9,
+    "ChemicalID": 8
+  },
+  {
+    "Id": 10,
+    "DrugID": 10,
+    "ChemicalID": 9
+  },
+  {
+    "Id": 11,
+    "DrugID": 11,
+    "ChemicalID": 10
+  },
+  {
+    "Id": 12,
+    "DrugID": 12,
+    "ChemicalID": 11
+  },
+  {
+    "Id": 13,
+    "DrugID": 13,
+    "ChemicalID": 12
+  },
+  {
+    "Id": 14,
+    "DrugID": 14,
+    "ChemicalID": 13
+  },
+  {
+    "Id": 15,
+    "DrugID": 14,
+    "ChemicalID": 14
+  },
+  {
+    "Id": 16,
+    "DrugID": 15,
+    "ChemicalID": 15
+  },
+  {
+    "Id": 17,
+    "DrugID": 16,
+    "ChemicalID": 16
+  },
+  {
+    "Id": 18,
+    "DrugID": 16,
+    "ChemicalID": 14
+  },
+  {
+    "Id": 19,
+    "DrugID": 16,
+    "ChemicalID": 18
+  },
+  {
+    "Id": 20,
+    "DrugID": 17,
+    "ChemicalID": 19
+  },
+  {
+    "Id": 21,
+    "DrugID": 18,
+    "ChemicalID": 20
+  },
+  {
+    "Id": 22,
+    "DrugID": 19,
+    "ChemicalID": 21
+  },
+  {
+    "Id": 23,
+    "DrugID": 20,
+    "ChemicalID": 22
+  },
+  {
+    "Id": 24,
+    "DrugID": 21,
+    "ChemicalID": 23
+  },
+  {
+    "Id": 25,
+    "DrugID": 22,
+    "ChemicalID": 24
+  },
+  {
+    "Id": 26,
+    "DrugID": 23,
+    "ChemicalID": 25
+  },
+  {
+    "Id": 27,
+    "DrugID": 24,
+    "ChemicalID": 26
+  },
+  {
+    "Id": 28,
+    "DrugID": 24,
+    "ChemicalID": 64
+  },
+  {
+    "Id": 29,
+    "DrugID": 25,
+    "ChemicalID": 27
+  },
+  {
+    "Id": 30,
+    "DrugID": 26,
+    "ChemicalID": 28
+  },
+  {
+    "Id": 31,
+    "DrugID": 27,
+    "ChemicalID": 29
+  },
+  {
+    "Id": 32,
+    "DrugID": 28,
+    "ChemicalID": 30
+  },
+  {
+    "Id": 33,
+    "DrugID": 29,
+    "ChemicalID": 31
+  },
+  {
+    "Id": 34,
+    "DrugID": 30,
+    "ChemicalID": 32
+  },
+  {
+    "Id": 35,
+    "DrugID": 31,
+    "ChemicalID": 33
+  },
+  {
+    "Id": 36,
+    "DrugID": 32,
+    "ChemicalID": 34
+  },
+  {
+    "Id": 37,
+    "DrugID": 33,
+    "ChemicalID": 35
+  },
+  {
+    "Id": 38,
+    "DrugID": 34,
+    "ChemicalID": 36
+  },
+  {
+    "Id": 39,
+    "DrugID": 35,
+    "ChemicalID": 36
+  },
+  {
+    "Id": 40,
+    "DrugID": 36,
+    "ChemicalID": 37
+  },
+  {
+    "Id": 41,
+    "DrugID": 37,
+    "ChemicalID": 38
+  },
+  {
+    "Id": 42,
+    "DrugID": 38,
+    "ChemicalID": 39
+  },
+  {
+    "Id": 43,
+    "DrugID": 39,
+    "ChemicalID": 40
+  },
+  {
+    "Id": 44,
+    "DrugID": 40,
+    "ChemicalID": 41
+  },
+  {
+    "Id": 45,
+    "DrugID": 41,
+    "ChemicalID": 42
+  },
+  {
+    "Id": 46,
+    "DrugID": 42,
+    "ChemicalID": 43
+  },
+  {
+    "Id": 47,
+    "DrugID": 43,
+    "ChemicalID": 44
+  },
+  {
+    "Id": 48,
+    "DrugID": 44,
+    "ChemicalID": 44
+  },
+  {
+    "Id": 49,
+    "DrugID": 45,
+    "ChemicalID": 44
+  },
+  {
+    "Id": 50,
+    "DrugID": 46,
+    "ChemicalID": 45
+  },
+  {
+    "Id": 51,
+    "DrugID": 47,
+    "ChemicalID": 46
+  },
+  {
+    "Id": 52,
+    "DrugID": 48,
+    "ChemicalID": 47
+  },
+  {
+    "Id": 53,
+    "DrugID": 49,
+    "ChemicalID": 48
+  },
+  {
+    "Id": 54,
+    "DrugID": 50,
+    "ChemicalID": 49
+  },
+  {
+    "Id": 55,
+    "DrugID": 51,
+    "ChemicalID": 50
+  },
+  {
+    "Id": 56,
+    "DrugID": 52,
+    "ChemicalID": 51
+  },
+  {
+    "Id": 57,
+    "DrugID": 53,
+    "ChemicalID": 52
+  },
+  {
+    "Id": 58,
+    "DrugID": 54,
+    "ChemicalID": 53
+  },
+  {
+    "Id": 59,
+    "DrugID": 55,
+    "ChemicalID": 54
+  },
+  {
+    "Id": 60,
+    "DrugID": 56,
+    "ChemicalID": 55
+  },
+  {
+    "Id": 61,
+    "DrugID": 57,
+    "ChemicalID": 56
+  },
+  {
+    "Id": 62,
+    "DrugID": 58,
+    "ChemicalID": 57
+  },
+  {
+    "Id": 63,
+    "DrugID": 59,
+    "ChemicalID": 58
+  },
+  {
+    "Id": 64,
+    "DrugID": 60,
+    "ChemicalID": 59
+  },
+  {
+    "Id": 65,
+    "DrugID": 61,
+    "ChemicalID": 60
+  },
+  {
+    "Id": 66,
+    "DrugID": 62,
+    "ChemicalID": 61
+  },
+  {
+    "Id": 67,
+    "DrugID": 63,
+    "ChemicalID": 62
+  },
+  {
+    "Id": 68,
+    "DrugID": 64,
+    "ChemicalID": 63
+  },
+  {
+    "Id": 69,
+    "DrugID": 65,
+    "ChemicalID": 64
+  },
+  {
+    "Id": 70,
+    "DrugID": 66,
+    "ChemicalID": 65
+  },
+  {
+    "Id": 71,
+    "DrugID": 67,
+    "ChemicalID": 66
+  },
+  {
+    "Id": 72,
+    "DrugID": 68,
+    "ChemicalID": 67
+  },
+  {
+    "Id": 73,
+    "DrugID": 69,
+    "ChemicalID": 68
+  },
+  {
+    "Id": 74,
+    "DrugID": 70,
+    "ChemicalID": 69
+  },
+  {
+    "Id": 75,
+    "DrugID": 71,
+    "ChemicalID": 70
+  },
+  {
+    "Id": 76,
+    "DrugID": 72,
+    "ChemicalID": 71
+  },
+  {
+    "Id": 77,
+    "DrugID": 73,
+    "ChemicalID": 72
+  },
+  {
+    "Id": 78,
+    "DrugID": 74,
+    "ChemicalID": 73
+  },
+  {
+    "Id": 79,
+    "DrugID": 75,
+    "ChemicalID": 74
+  },
+  {
+    "Id": 80,
+    "DrugID": 76,
+    "ChemicalID": 75
+  },
+  {
+    "Id": 81,
+    "DrugID": 77,
+    "ChemicalID": 76
+  },
+  {
+    "Id": 82,
+    "DrugID": 78,
+    "ChemicalID": 77
+  },
+  {
+    "Id": 83,
+    "DrugID": 79,
+    "ChemicalID": 78
+  },
+  {
+    "Id": 84,
+    "DrugID": 80,
+    "ChemicalID": 79
+  },
+  {
+    "Id": 85,
+    "DrugID": 81,
+    "ChemicalID": 80
+  },
+  {
+    "Id": 86,
+    "DrugID": 83,
+    "ChemicalID": 81
+  },
+  {
+    "Id": 87,
+    "DrugID": 84,
+    "ChemicalID": 82
+  },
+  {
+    "Id": 88,
+    "DrugID": 85,
+    "ChemicalID": 83
+  },
+  {
+    "Id": 89,
+    "DrugID": 86,
+    "ChemicalID": 84
+  },
+  {
+    "Id": 90,
+    "DrugID": 87,
+    "ChemicalID": 85
+  },
+  {
+    "Id": 91,
+    "DrugID": 88,
+    "ChemicalID": 86
+  },
+  {
+    "Id": 92,
+    "DrugID": 89,
+    "ChemicalID": 87
+  },
+  {
+    "Id": 93,
+    "DrugID": 90,
+    "ChemicalID": 88
+  },
+  {
+    "Id": 94,
+    "DrugID": 91,
+    "ChemicalID": 89
+  },
+  {
+    "Id": 95,
+    "DrugID": 92,
+    "ChemicalID": 90
+  },
+  {
+    "Id": 96,
+    "DrugID": 93,
+    "ChemicalID": 91
+  },
+  {
+    "Id": 97,
+    "DrugID": 94,
+    "ChemicalID": 92
+  },
+  {
+    "Id": 98,
+    "DrugID": 95,
+    "ChemicalID": 93
+  },
+  {
+    "Id": 99,
+    "DrugID": 96,
+    "ChemicalID": 94
+  },
+  {
+    "Id": 100,
+    "DrugID": 97,
+    "ChemicalID": 95
+  },
+  {
+    "Id": 101,
+    "DrugID": 100,
+    "ChemicalID": 96
+  },
+  {
+    "Id": 102,
+    "DrugID": 101,
+    "ChemicalID": 97
+  },
+  {
+    "Id": 103,
+    "DrugID": 102,
+    "ChemicalID": 98
+  },
+  {
+    "Id": 104,
+    "DrugID": 103,
+    "ChemicalID": 99
+  },
+  {
+    "Id": 105,
+    "DrugID": 104,
+    "ChemicalID": 100
+  },
+  {
+    "Id": 106,
+    "DrugID": 106,
+    "ChemicalID": 101
+  },
+  {
+    "Id": 107,
+    "DrugID": 107,
+    "ChemicalID": 102
+  },
+  {
+    "Id": 108,
+    "DrugID": 108,
+    "ChemicalID": 103
+  },
+  {
+    "Id": 109,
+    "DrugID": 109,
+    "ChemicalID": 104
+  },
+  {
+    "Id": 110,
+    "DrugID": 110,
+    "ChemicalID": 105
+  },
+  {
+    "Id": 111,
+    "DrugID": 111,
+    "ChemicalID": 106
+  },
+  {
+    "Id": 112,
+    "DrugID": 112,
+    "ChemicalID": 107
+  },
+  {
+    "Id": 113,
+    "DrugID": 113,
+    "ChemicalID": 108
+  },
+  {
+    "Id": 114,
+    "DrugID": 114,
+    "ChemicalID": 109
+  },
+  {
+    "Id": 115,
+    "DrugID": 115,
+    "ChemicalID": 110
+  },
+  {
+    "Id": 116,
+    "DrugID": 116,
+    "ChemicalID": 110
+  },
+  {
+    "Id": 117,
+    "DrugID": 117,
+    "ChemicalID": 111
+  },
+  {
+    "Id": 118,
+    "DrugID": 118,
+    "ChemicalID": 112
+  },
+  {
+    "Id": 119,
+    "DrugID": 120,
+    "ChemicalID": 113
+  },
+  {
+    "Id": 120,
+    "DrugID": 121,
+    "ChemicalID": 114
+  },
+  {
+    "Id": 121,
+    "DrugID": 122,
+    "ChemicalID": 115
+  },
+  {
+    "Id": 122,
+    "DrugID": 123,
+    "ChemicalID": 116
+  },
+  {
+    "Id": 123,
+    "DrugID": 124,
+    "ChemicalID": 117
+  },
+  {
+    "Id": 124,
+    "DrugID": 125,
+    "ChemicalID": 118
+  },
+  {
+    "Id": 125,
+    "DrugID": 127,
+    "ChemicalID": 119
+  },
+  {
+    "Id": 126,
+    "DrugID": 128,
+    "ChemicalID": 120
+  },
+  {
+    "Id": 127,
+    "DrugID": 129,
+    "ChemicalID": 121
+  },
+  {
+    "Id": 128,
+    "DrugID": 130,
+    "ChemicalID": 122
+  },
+  {
+    "Id": 129,
+    "DrugID": 131,
+    "ChemicalID": 123
+  },
+  {
+    "Id": 130,
+    "DrugID": 132,
+    "ChemicalID": 124
+  },
+  {
+    "Id": 131,
+    "DrugID": 133,
+    "ChemicalID": 18
+  },
+  {
+    "Id": 132,
+    "DrugID": 134,
+    "ChemicalID": 18
+  },
+  {
+    "Id": 133,
+    "DrugID": 135,
+    "ChemicalID": 126
+  },
+  {
+    "Id": 134,
+    "DrugID": 136,
+    "ChemicalID": 127
+  },
+  {
+    "Id": 135,
+    "DrugID": 137,
+    "ChemicalID": 128
+  },
+  {
+    "Id": 136,
+    "DrugID": 138,
+    "ChemicalID": 129
+  },
+  {
+    "Id": 137,
+    "DrugID": 139,
+    "ChemicalID": 130
+  },
+  {
+    "Id": 138,
+    "DrugID": 140,
+    "ChemicalID": 131
+  },
+  {
+    "Id": 139,
+    "DrugID": 141,
+    "ChemicalID": 132
+  },
+  {
+    "Id": 140,
+    "DrugID": 142,
+    "ChemicalID": 133
+  },
+  {
+    "Id": 141,
+    "DrugID": 143,
+    "ChemicalID": 134
+  },
+  {
+    "Id": 142,
+    "DrugID": 144,
+    "ChemicalID": 135
+  },
+  {
+    "Id": 143,
+    "DrugID": 145,
+    "ChemicalID": 136
+  },
+  {
+    "Id": 144,
+    "DrugID": 146,
+    "ChemicalID": 137
+  },
+  {
+    "Id": 145,
+    "DrugID": 147,
+    "ChemicalID": 138
+  },
+  {
+    "Id": 146,
+    "DrugID": 148,
+    "ChemicalID": 138
+  },
+  {
+    "Id": 147,
+    "DrugID": 149,
+    "ChemicalID": 138
+  },
+  {
+    "Id": 148,
+    "DrugID": 150,
+    "ChemicalID": 139
+  },
+  {
+    "Id": 149,
+    "DrugID": 151,
+    "ChemicalID": 140
+  },
+  {
+    "Id": 150,
+    "DrugID": 152,
+    "ChemicalID": 141
+  },
+  {
+    "Id": 151,
+    "DrugID": 153,
+    "ChemicalID": 142
+  },
+  {
+    "Id": 152,
+    "DrugID": 154,
+    "ChemicalID": 143
+  },
+  {
+    "Id": 153,
+    "DrugID": 155,
+    "ChemicalID": 144
+  },
+  {
+    "Id": 154,
+    "DrugID": 156,
+    "ChemicalID": 145
+  },
+  {
+    "Id": 155,
+    "DrugID": 157,
+    "ChemicalID": 146
+  },
+  {
+    "Id": 156,
+    "DrugID": 159,
+    "ChemicalID": 147
+  },
+  {
+    "Id": 157,
+    "DrugID": 160,
+    "ChemicalID": 148
+  },
+  {
+    "Id": 158,
+    "DrugID": 161,
+    "ChemicalID": 149
+  },
+  {
+    "Id": 159,
+    "DrugID": 162,
+    "ChemicalID": 149
+  },
+  {
+    "Id": 160,
+    "DrugID": 163,
+    "ChemicalID": 150
+  },
+  {
+    "Id": 161,
+    "DrugID": 164,
+    "ChemicalID": 151
+  },
+  {
+    "Id": 162,
+    "DrugID": 165,
+    "ChemicalID": 152
+  },
+  {
+    "Id": 163,
+    "DrugID": 166,
+    "ChemicalID": 153
+  },
+  {
+    "Id": 164,
+    "DrugID": 167,
+    "ChemicalID": 153
+  },
+  {
+    "Id": 165,
+    "DrugID": 168,
+    "ChemicalID": 154
+  },
+  {
+    "Id": 166,
+    "DrugID": 169,
+    "ChemicalID": 154
+  },
+  {
+    "Id": 167,
+    "DrugID": 170,
+    "ChemicalID": 155
+  },
+  {
+    "Id": 168,
+    "DrugID": 171,
+    "ChemicalID": 156
+  },
+  {
+    "Id": 169,
+    "DrugID": 172,
+    "ChemicalID": 157
+  },
+  {
+    "Id": 170,
+    "DrugID": 173,
+    "ChemicalID": 158
+  },
+  {
+    "Id": 171,
+    "DrugID": 174,
+    "ChemicalID": 159
+  },
+  {
+    "Id": 172,
+    "DrugID": 175,
+    "ChemicalID": 160
+  },
+  {
+    "Id": 173,
+    "DrugID": 176,
+    "ChemicalID": 161
+  },
+  {
+    "Id": 174,
+    "DrugID": 177,
+    "ChemicalID": 162
+  },
+  {
+    "Id": 175,
+    "DrugID": 178,
+    "ChemicalID": 163
+  },
+  {
+    "Id": 176,
+    "DrugID": 179,
+    "ChemicalID": 164
+  },
+  {
+    "Id": 177,
+    "DrugID": 180,
+    "ChemicalID": 165
+  },
+  {
+    "Id": 178,
+    "DrugID": 181,
+    "ChemicalID": 166
+  },
+  {
+    "Id": 179,
+    "DrugID": 182,
+    "ChemicalID": 167
+  },
+  {
+    "Id": 180,
+    "DrugID": 184,
+    "ChemicalID": 168
+  },
+  {
+    "Id": 181,
+    "DrugID": 185,
+    "ChemicalID": 169
+  },
+  {
+    "Id": 182,
+    "DrugID": 186,
+    "ChemicalID": 170
+  },
+  {
+    "Id": 183,
+    "DrugID": 187,
+    "ChemicalID": 171
+  },
+  {
+    "Id": 184,
+    "DrugID": 188,
+    "ChemicalID": 172
+  },
+  {
+    "Id": 185,
+    "DrugID": 189,
+    "ChemicalID": 173
+  },
+  {
+    "Id": 186,
+    "DrugID": 190,
+    "ChemicalID": 174
+  },
+  {
+    "Id": 187,
+    "DrugID": 191,
+    "ChemicalID": 175
+  },
+  {
+    "Id": 188,
+    "DrugID": 192,
+    "ChemicalID": 176
+  },
+  {
+    "Id": 189,
+    "DrugID": 193,
+    "ChemicalID": 177
+  },
+  {
+    "Id": 190,
+    "DrugID": 194,
+    "ChemicalID": 178
+  },
+  {
+    "Id": 191,
+    "DrugID": 195,
+    "ChemicalID": 179
+  },
+  {
+    "Id": 192,
+    "DrugID": 196,
+    "ChemicalID": 180
+  },
+  {
+    "Id": 193,
+    "DrugID": 197,
+    "ChemicalID": 181
+  },
+  {
+    "Id": 194,
+    "DrugID": 198,
+    "ChemicalID": 182
+  },
+  {
+    "Id": 195,
+    "DrugID": 199,
+    "ChemicalID": 183
+  },
+  {
+    "Id": 196,
+    "DrugID": 201,
+    "ChemicalID": 184
+  },
+  {
+    "Id": 197,
+    "DrugID": 202,
+    "ChemicalID": 185
+  },
+  {
+    "Id": 198,
+    "DrugID": 203,
+    "ChemicalID": 186
+  },
+  {
+    "Id": 199,
+    "DrugID": 204,
+    "ChemicalID": 187
+  },
+  {
+    "Id": 200,
+    "DrugID": 205,
+    "ChemicalID": 188
+  },
+  {
+    "Id": 201,
+    "DrugID": 206,
+    "ChemicalID": 189
+  },
+  {
+    "Id": 202,
+    "DrugID": 208,
+    "ChemicalID": 190
+  },
+  {
+    "Id": 203,
+    "DrugID": 209,
+    "ChemicalID": 191
+  },
+  {
+    "Id": 204,
+    "DrugID": 210,
+    "ChemicalID": 192
+  },
+  {
+    "Id": 205,
+    "DrugID": 211,
+    "ChemicalID": 193
+  },
+  {
+    "Id": 206,
+    "DrugID": 212,
+    "ChemicalID": 194
+  },
+  {
+    "Id": 207,
+    "DrugID": 213,
+    "ChemicalID": 195
+  },
+  {
+    "Id": 208,
+    "DrugID": 214,
+    "ChemicalID": 196
+  },
+  {
+    "Id": 209,
+    "DrugID": 215,
+    "ChemicalID": 197
+  },
+  {
+    "Id": 210,
+    "DrugID": 216,
+    "ChemicalID": 198
+  },
+  {
+    "Id": 211,
+    "DrugID": 217,
+    "ChemicalID": 199
+  },
+  {
+    "Id": 212,
+    "DrugID": 218,
+    "ChemicalID": 200
+  },
+  {
+    "Id": 213,
+    "DrugID": 219,
+    "ChemicalID": 201
+  },
+  {
+    "Id": 214,
+    "DrugID": 220,
+    "ChemicalID": 202
+  },
+  {
+    "Id": 215,
+    "DrugID": 221,
+    "ChemicalID": 203
+  },
+  {
+    "Id": 216,
+    "DrugID": 222,
+    "ChemicalID": 204
+  },
+  {
+    "Id": 217,
+    "DrugID": 223,
+    "ChemicalID": 205
+  },
+  {
+    "Id": 218,
+    "DrugID": 224,
+    "ChemicalID": 206
+  },
+  {
+    "Id": 219,
+    "DrugID": 225,
+    "ChemicalID": 207
+  },
+  {
+    "Id": 220,
+    "DrugID": 226,
+    "ChemicalID": 208
+  },
+  {
+    "Id": 221,
+    "DrugID": 227,
+    "ChemicalID": 209
+  },
+  {
+    "Id": 222,
+    "DrugID": 228,
+    "ChemicalID": 210
+  },
+  {
+    "Id": 223,
+    "DrugID": 229,
+    "ChemicalID": 211
+  },
+  {
+    "Id": 224,
+    "DrugID": 230,
+    "ChemicalID": 212
+  },
+  {
+    "Id": 225,
+    "DrugID": 231,
+    "ChemicalID": 213
+  },
+  {
+    "Id": 226,
+    "DrugID": 232,
+    "ChemicalID": 214
+  },
+  {
+    "Id": 227,
+    "DrugID": 233,
+    "ChemicalID": 215
+  },
+  {
+    "Id": 228,
+    "DrugID": 234,
+    "ChemicalID": 216
+  },
+  {
+    "Id": 229,
+    "DrugID": 237,
+    "ChemicalID": 217
+  },
+  {
+    "Id": 230,
+    "DrugID": 238,
+    "ChemicalID": 218
+  },
+  {
+    "Id": 231,
+    "DrugID": 239,
+    "ChemicalID": 219
+  },
+  {
+    "Id": 232,
+    "DrugID": 240,
+    "ChemicalID": 220
+  },
+  {
+    "Id": 233,
+    "DrugID": 241,
+    "ChemicalID": 221
+  },
+  {
+    "Id": 234,
+    "DrugID": 242,
+    "ChemicalID": 222
+  },
+  {
+    "Id": 235,
+    "DrugID": 243,
+    "ChemicalID": 223
+  },
+  {
+    "Id": 236,
+    "DrugID": 244,
+    "ChemicalID": 224
+  },
+  {
+    "Id": 237,
+    "DrugID": 245,
+    "ChemicalID": 225
+  },
+  {
+    "Id": 238,
+    "DrugID": 247,
+    "ChemicalID": 226
+  },
+  {
+    "Id": 239,
+    "DrugID": 248,
+    "ChemicalID": 227
+  },
+  {
+    "Id": 240,
+    "DrugID": 249,
+    "ChemicalID": 228
+  },
+  {
+    "Id": 241,
+    "DrugID": 250,
+    "ChemicalID": 229
+  },
+  {
+    "Id": 242,
+    "DrugID": 251,
+    "ChemicalID": 230
+  },
+  {
+    "Id": 243,
+    "DrugID": 252,
+    "ChemicalID": 231
+  },
+  {
+    "Id": 244,
+    "DrugID": 253,
+    "ChemicalID": 232
+  },
+  {
+    "Id": 245,
+    "DrugID": 254,
+    "ChemicalID": 233
+  },
+  {
+    "Id": 246,
+    "DrugID": 255,
+    "ChemicalID": 234
+  },
+  {
+    "Id": 247,
+    "DrugID": 256,
+    "ChemicalID": 235
+  },
+  {
+    "Id": 248,
+    "DrugID": 257,
+    "ChemicalID": 236
+  },
+  {
+    "Id": 249,
+    "DrugID": 258,
+    "ChemicalID": 237
+  },
+  {
+    "Id": 250,
+    "DrugID": 259,
+    "ChemicalID": 238
+  },
+  {
+    "Id": 251,
+    "DrugID": 260,
+    "ChemicalID": 239
+  },
+  {
+    "Id": 252,
+    "DrugID": 261,
+    "ChemicalID": 240
+  },
+  {
+    "Id": 253,
+    "DrugID": 262,
+    "ChemicalID": 241
+  },
+  {
+    "Id": 254,
+    "DrugID": 263,
+    "ChemicalID": 242
+  },
+  {
+    "Id": 255,
+    "DrugID": 264,
+    "ChemicalID": 243
+  },
+  {
+    "Id": 256,
+    "DrugID": 265,
+    "ChemicalID": 244
+  },
+  {
+    "Id": 257,
+    "DrugID": 266,
+    "ChemicalID": 245
+  },
+  {
+    "Id": 258,
+    "DrugID": 267,
+    "ChemicalID": 246
+  },
+  {
+    "Id": 259,
+    "DrugID": 268,
+    "ChemicalID": 247
+  },
+  {
+    "Id": 260,
+    "DrugID": 269,
+    "ChemicalID": 248
+  },
+  {
+    "Id": 261,
+    "DrugID": 270,
+    "ChemicalID": 249
+  },
+  {
+    "Id": 262,
+    "DrugID": 271,
+    "ChemicalID": 250
+  },
+  {
+    "Id": 263,
+    "DrugID": 272,
+    "ChemicalID": 251
+  },
+  {
+    "Id": 264,
+    "DrugID": 273,
+    "ChemicalID": 251
+  },
+  {
+    "Id": 265,
+    "DrugID": 274,
+    "ChemicalID": 252
+  },
+  {
+    "Id": 266,
+    "DrugID": 276,
+    "ChemicalID": 253
+  },
+  {
+    "Id": 267,
+    "DrugID": 277,
+    "ChemicalID": 254
+  },
+  {
+    "Id": 268,
+    "DrugID": 278,
+    "ChemicalID": 255
+  },
+  {
+    "Id": 269,
+    "DrugID": 279,
+    "ChemicalID": 256
+  },
+  {
+    "Id": 270,
+    "DrugID": 280,
+    "ChemicalID": 257
+  },
+  {
+    "Id": 271,
+    "DrugID": 281,
+    "ChemicalID": 258
+  },
+  {
+    "Id": 272,
+    "DrugID": 282,
+    "ChemicalID": 259
+  },
+  {
+    "Id": 273,
+    "DrugID": 283,
+    "ChemicalID": 260
+  },
+  {
+    "Id": 274,
+    "DrugID": 284,
+    "ChemicalID": 261
+  },
+  {
+    "Id": 275,
+    "DrugID": 285,
+    "ChemicalID": 262
+  },
+  {
+    "Id": 276,
+    "DrugID": 288,
+    "ChemicalID": 263
+  },
+  {
+    "Id": 277,
+    "DrugID": 289,
+    "ChemicalID": 264
+  },
+  {
+    "Id": 278,
+    "DrugID": 290,
+    "ChemicalID": 265
+  },
+  {
+    "Id": 279,
+    "DrugID": 291,
+    "ChemicalID": 266
+  },
+  {
+    "Id": 280,
+    "DrugID": 292,
+    "ChemicalID": 267
+  },
+  {
+    "Id": 281,
+    "DrugID": 293,
+    "ChemicalID": 268
+  },
+  {
+    "Id": 282,
+    "DrugID": 294,
+    "ChemicalID": 269
+  },
+  {
+    "Id": 283,
+    "DrugID": 295,
+    "ChemicalID": 270
+  },
+  {
+    "Id": 284,
+    "DrugID": 296,
+    "ChemicalID": 271
+  },
+  {
+    "Id": 285,
+    "DrugID": 297,
+    "ChemicalID": 272
+  },
+  {
+    "Id": 286,
+    "DrugID": 298,
+    "ChemicalID": 273
+  },
+  {
+    "Id": 287,
+    "DrugID": 299,
+    "ChemicalID": 274
+  },
+  {
+    "Id": 288,
+    "DrugID": 300,
+    "ChemicalID": 275
+  },
+  {
+    "Id": 289,
+    "DrugID": 301,
+    "ChemicalID": 276
+  },
+  {
+    "Id": 290,
+    "DrugID": 302,
+    "ChemicalID": 277
+  },
+  {
+    "Id": 291,
+    "DrugID": 303,
+    "ChemicalID": 277
+  },
+  {
+    "Id": 292,
+    "DrugID": 304,
+    "ChemicalID": 278
+  },
+  {
+    "Id": 293,
+    "DrugID": 305,
+    "ChemicalID": 279
+  },
+  {
+    "Id": 294,
+    "DrugID": 306,
+    "ChemicalID": 280
+  },
+  {
+    "Id": 295,
+    "DrugID": 307,
+    "ChemicalID": 281
+  },
+  {
+    "Id": 296,
+    "DrugID": 308,
+    "ChemicalID": 282
+  },
+  {
+    "Id": 297,
+    "DrugID": 309,
+    "ChemicalID": 283
+  },
+  {
+    "Id": 298,
+    "DrugID": 310,
+    "ChemicalID": 284
+  },
+  {
+    "Id": 299,
+    "DrugID": 311,
+    "ChemicalID": 285
+  },
+  {
+    "Id": 300,
+    "DrugID": 312,
+    "ChemicalID": 286
+  },
+  {
+    "Id": 301,
+    "DrugID": 313,
+    "ChemicalID": 286
+  },
+  {
+    "Id": 302,
+    "DrugID": 314,
+    "ChemicalID": 287
+  },
+  {
+    "Id": 303,
+    "DrugID": 315,
+    "ChemicalID": 288
+  },
+  {
+    "Id": 304,
+    "DrugID": 316,
+    "ChemicalID": 289
+  },
+  {
+    "Id": 305,
+    "DrugID": 317,
+    "ChemicalID": 290
+  },
+  {
+    "Id": 306,
+    "DrugID": 318,
+    "ChemicalID": 291
+  },
+  {
+    "Id": 307,
+    "DrugID": 319,
+    "ChemicalID": 292
+  },
+  {
+    "Id": 308,
+    "DrugID": 320,
+    "ChemicalID": 293
+  },
+  {
+    "Id": 309,
+    "DrugID": 321,
+    "ChemicalID": 294
+  },
+  {
+    "Id": 310,
+    "DrugID": 322,
+    "ChemicalID": 295
+  }
+]

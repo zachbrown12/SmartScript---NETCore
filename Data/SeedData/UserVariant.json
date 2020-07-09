@@ -1,0 +1,1022 @@
+[
+  {
+    "Id": 1,
+    "UserID": 1,
+    "VariantID": 911,
+    "RowNum": 2643
+  },
+  {
+    "Id": 2,
+    "UserID": 1,
+    "VariantID": 904,
+    "RowNum": 28349
+  },
+  {
+    "Id": 3,
+    "UserID": 1,
+    "VariantID": 442,
+    "RowNum": 37068
+  },
+  {
+    "Id": 4,
+    "UserID": 1,
+    "VariantID": 787,
+    "RowNum": 77854
+  },
+  {
+    "Id": 5,
+    "UserID": 1,
+    "VariantID": 847,
+    "RowNum": 131856
+  },
+  {
+    "Id": 6,
+    "UserID": 1,
+    "VariantID": 413,
+    "RowNum": 148302
+  },
+  {
+    "Id": 7,
+    "UserID": 1,
+    "VariantID": 353,
+    "RowNum": 192268
+  },
+  {
+    "Id": 8,
+    "UserID": 1,
+    "VariantID": 391,
+    "RowNum": 192269
+  },
+  {
+    "Id": 9,
+    "UserID": 1,
+    "VariantID": 158,
+    "RowNum": 207459
+  },
+  {
+    "Id": 10,
+    "UserID": 1,
+    "VariantID": 770,
+    "RowNum": 236943
+  },
+  {
+    "Id": 11,
+    "UserID": 1,
+    "VariantID": 579,
+    "RowNum": 246024
+  },
+  {
+    "Id": 12,
+    "UserID": 1,
+    "VariantID": 392,
+    "RowNum": 257707
+  },
+  {
+    "Id": 13,
+    "UserID": 1,
+    "VariantID": 390,
+    "RowNum": 257750
+  },
+  {
+    "Id": 14,
+    "UserID": 1,
+    "VariantID": 105,
+    "RowNum": 260119
+  },
+  {
+    "Id": 15,
+    "UserID": 1,
+    "VariantID": 447,
+    "RowNum": 260182
+  },
+  {
+    "Id": 16,
+    "UserID": 1,
+    "VariantID": 418,
+    "RowNum": 350120
+  },
+  {
+    "Id": 17,
+    "UserID": 1,
+    "VariantID": 923,
+    "RowNum": 351119
+  },
+  {
+    "Id": 18,
+    "UserID": 1,
+    "VariantID": 405,
+    "RowNum": 359038
+  },
+  {
+    "Id": 19,
+    "UserID": 1,
+    "VariantID": 289,
+    "RowNum": 382792
+  },
+  {
+    "Id": 20,
+    "UserID": 1,
+    "VariantID": 623,
+    "RowNum": 382804
+  },
+  {
+    "Id": 21,
+    "UserID": 1,
+    "VariantID": 868,
+    "RowNum": 393967
+  },
+  {
+    "Id": 22,
+    "UserID": 1,
+    "VariantID": 929,
+    "RowNum": 424231
+  },
+  {
+    "Id": 23,
+    "UserID": 1,
+    "VariantID": 811,
+    "RowNum": 433499
+  },
+  {
+    "Id": 24,
+    "UserID": 1,
+    "VariantID": 147,
+    "RowNum": 466949
+  },
+  {
+    "Id": 25,
+    "UserID": 1,
+    "VariantID": 55,
+    "RowNum": 469137
+  },
+  {
+    "Id": 26,
+    "UserID": 1,
+    "VariantID": 751,
+    "RowNum": 469147
+  },
+  {
+    "Id": 27,
+    "UserID": 1,
+    "VariantID": 149,
+    "RowNum": 469158
+  },
+  {
+    "Id": 28,
+    "UserID": 1,
+    "VariantID": 257,
+    "RowNum": 480741
+  },
+  {
+    "Id": 29,
+    "UserID": 1,
+    "VariantID": 440,
+    "RowNum": 483571
+  },
+  {
+    "Id": 30,
+    "UserID": 1,
+    "VariantID": 375,
+    "RowNum": 484386
+  },
+  {
+    "Id": 31,
+    "UserID": 1,
+    "VariantID": 753,
+    "RowNum": 485935
+  },
+  {
+    "Id": 32,
+    "UserID": 1,
+    "VariantID": 714,
+    "RowNum": 488320
+  },
+  {
+    "Id": 33,
+    "UserID": 1,
+    "VariantID": 802,
+    "RowNum": 500574
+  },
+  {
+    "Id": 34,
+    "UserID": 1,
+    "VariantID": 46,
+    "RowNum": 534278
+  },
+  {
+    "Id": 35,
+    "UserID": 1,
+    "VariantID": 730,
+    "RowNum": 539225
+  },
+  {
+    "Id": 36,
+    "UserID": 1,
+    "VariantID": 931,
+    "RowNum": 539240
+  },
+  {
+    "Id": 37,
+    "UserID": 1,
+    "VariantID": 889,
+    "RowNum": 552004
+  },
+  {
+    "Id": 38,
+    "UserID": 1,
+    "VariantID": 729,
+    "RowNum": 552030
+  },
+  {
+    "Id": 39,
+    "UserID": 1,
+    "VariantID": 62,
+    "RowNum": 565555
+  },
+  {
+    "Id": 40,
+    "UserID": 1,
+    "VariantID": 598,
+    "RowNum": 571996
+  },
+  {
+    "Id": 41,
+    "UserID": 1,
+    "VariantID": 26,
+    "RowNum": 587132
+  },
+  {
+    "Id": 42,
+    "UserID": 1,
+    "VariantID": 430,
+    "RowNum": 587133
+  },
+  {
+    "Id": 43,
+    "UserID": 1,
+    "VariantID": 434,
+    "RowNum": 587157
+  },
+  {
+    "Id": 44,
+    "UserID": 1,
+    "VariantID": 40,
+    "RowNum": 2619
+  },
+  {
+    "Id": 45,
+    "UserID": 1,
+    "VariantID": 472,
+    "RowNum": 2643
+  },
+  {
+    "Id": 46,
+    "UserID": 1,
+    "VariantID": 11,
+    "RowNum": 2680
+  },
+  {
+    "Id": 47,
+    "UserID": 1,
+    "VariantID": 684,
+    "RowNum": 15259
+  },
+  {
+    "Id": 48,
+    "UserID": 1,
+    "VariantID": 475,
+    "RowNum": 28040
+  },
+  {
+    "Id": 49,
+    "UserID": 1,
+    "VariantID": 414,
+    "RowNum": 38617
+  },
+  {
+    "Id": 50,
+    "UserID": 1,
+    "VariantID": 637,
+    "RowNum": 40886
+  },
+  {
+    "Id": 51,
+    "UserID": 1,
+    "VariantID": 914,
+    "RowNum": 41650
+  },
+  {
+    "Id": 52,
+    "UserID": 1,
+    "VariantID": 520,
+    "RowNum": 49878
+  },
+  {
+    "Id": 53,
+    "UserID": 1,
+    "VariantID": 758,
+    "RowNum": 51514
+  },
+  {
+    "Id": 54,
+    "UserID": 1,
+    "VariantID": 762,
+    "RowNum": 51583
+  },
+  {
+    "Id": 55,
+    "UserID": 1,
+    "VariantID": 374,
+    "RowNum": 65592
+  },
+  {
+    "Id": 56,
+    "UserID": 1,
+    "VariantID": 635,
+    "RowNum": 65599
+  },
+  {
+    "Id": 57,
+    "UserID": 1,
+    "VariantID": 518,
+    "RowNum": 74155
+  },
+  {
+    "Id": 58,
+    "UserID": 1,
+    "VariantID": 117,
+    "RowNum": 77697
+  },
+  {
+    "Id": 59,
+    "UserID": 1,
+    "VariantID": 330,
+    "RowNum": 77836
+  },
+  {
+    "Id": 60,
+    "UserID": 1,
+    "VariantID": 785,
+    "RowNum": 77854
+  },
+  {
+    "Id": 61,
+    "UserID": 1,
+    "VariantID": 796,
+    "RowNum": 85034
+  },
+  {
+    "Id": 62,
+    "UserID": 1,
+    "VariantID": 5,
+    "RowNum": 87961
+  },
+  {
+    "Id": 63,
+    "UserID": 1,
+    "VariantID": 335,
+    "RowNum": 90434
+  },
+  {
+    "Id": 64,
+    "UserID": 1,
+    "VariantID": 726,
+    "RowNum": 104715
+  },
+  {
+    "Id": 65,
+    "UserID": 1,
+    "VariantID": 303,
+    "RowNum": 115510
+  },
+  {
+    "Id": 66,
+    "UserID": 1,
+    "VariantID": 104,
+    "RowNum": 116617
+  },
+  {
+    "Id": 67,
+    "UserID": 1,
+    "VariantID": 641,
+    "RowNum": 116628
+  },
+  {
+    "Id": 68,
+    "UserID": 1,
+    "VariantID": 652,
+    "RowNum": 141567
+  },
+  {
+    "Id": 69,
+    "UserID": 1,
+    "VariantID": 706,
+    "RowNum": 141570
+  },
+  {
+    "Id": 70,
+    "UserID": 1,
+    "VariantID": 654,
+    "RowNum": 141581
+  },
+  {
+    "Id": 71,
+    "UserID": 1,
+    "VariantID": 843,
+    "RowNum": 141797
+  },
+  {
+    "Id": 72,
+    "UserID": 1,
+    "VariantID": 894,
+    "RowNum": 141806
+  },
+  {
+    "Id": 73,
+    "UserID": 1,
+    "VariantID": 415,
+    "RowNum": 143905
+  },
+  {
+    "Id": 74,
+    "UserID": 1,
+    "VariantID": 597,
+    "RowNum": 143908
+  },
+  {
+    "Id": 75,
+    "UserID": 1,
+    "VariantID": 471,
+    "RowNum": 147253
+  },
+  {
+    "Id": 76,
+    "UserID": 1,
+    "VariantID": 393,
+    "RowNum": 148301
+  },
+  {
+    "Id": 77,
+    "UserID": 1,
+    "VariantID": 385,
+    "RowNum": 158261
+  },
+  {
+    "Id": 78,
+    "UserID": 1,
+    "VariantID": 115,
+    "RowNum": 167448
+  },
+  {
+    "Id": 79,
+    "UserID": 1,
+    "VariantID": 766,
+    "RowNum": 171008
+  },
+  {
+    "Id": 80,
+    "UserID": 1,
+    "VariantID": 576,
+    "RowNum": 175532
+  },
+  {
+    "Id": 81,
+    "UserID": 1,
+    "VariantID": 208,
+    "RowNum": 180037
+  },
+  {
+    "Id": 82,
+    "UserID": 1,
+    "VariantID": 664,
+    "RowNum": 189052
+  },
+  {
+    "Id": 83,
+    "UserID": 1,
+    "VariantID": 205,
+    "RowNum": 192268
+  },
+  {
+    "Id": 84,
+    "UserID": 1,
+    "VariantID": 316,
+    "RowNum": 195129
+  },
+  {
+    "Id": 85,
+    "UserID": 1,
+    "VariantID": 188,
+    "RowNum": 198285
+  },
+  {
+    "Id": 86,
+    "UserID": 1,
+    "VariantID": 191,
+    "RowNum": 198295
+  },
+  {
+    "Id": 87,
+    "UserID": 1,
+    "VariantID": 864,
+    "RowNum": 204418
+  },
+  {
+    "Id": 88,
+    "UserID": 1,
+    "VariantID": 581,
+    "RowNum": 208895
+  },
+  {
+    "Id": 89,
+    "UserID": 1,
+    "VariantID": 473,
+    "RowNum": 209051
+  },
+  {
+    "Id": 90,
+    "UserID": 1,
+    "VariantID": 474,
+    "RowNum": 209052
+  },
+  {
+    "Id": 91,
+    "UserID": 1,
+    "VariantID": 898,
+    "RowNum": 209064
+  },
+  {
+    "Id": 92,
+    "UserID": 1,
+    "VariantID": 282,
+    "RowNum": 209842
+  },
+  {
+    "Id": 93,
+    "UserID": 1,
+    "VariantID": 604,
+    "RowNum": 210078
+  },
+  {
+    "Id": 94,
+    "UserID": 1,
+    "VariantID": 227,
+    "RowNum": 213419
+  },
+  {
+    "Id": 95,
+    "UserID": 1,
+    "VariantID": 856,
+    "RowNum": 213424
+  },
+  {
+    "Id": 96,
+    "UserID": 1,
+    "VariantID": 189,
+    "RowNum": 213428
+  },
+  {
+    "Id": 97,
+    "UserID": 1,
+    "VariantID": 853,
+    "RowNum": 215413
+  },
+  {
+    "Id": 98,
+    "UserID": 1,
+    "VariantID": 686,
+    "RowNum": 215415
+  },
+  {
+    "Id": 99,
+    "UserID": 1,
+    "VariantID": 855,
+    "RowNum": 222740
+  },
+  {
+    "Id": 100,
+    "UserID": 1,
+    "VariantID": 768,
+    "RowNum": 236808
+  },
+  {
+    "Id": 101,
+    "UserID": 1,
+    "VariantID": 285,
+    "RowNum": 236913
+  },
+  {
+    "Id": 102,
+    "UserID": 1,
+    "VariantID": 308,
+    "RowNum": 244626
+  },
+  {
+    "Id": 103,
+    "UserID": 1,
+    "VariantID": 578,
+    "RowNum": 246024
+  },
+  {
+    "Id": 104,
+    "UserID": 1,
+    "VariantID": 545,
+    "RowNum": 250953
+  },
+  {
+    "Id": 105,
+    "UserID": 1,
+    "VariantID": 297,
+    "RowNum": 252151
+  },
+  {
+    "Id": 106,
+    "UserID": 1,
+    "VariantID": 454,
+    "RowNum": 255543
+  },
+  {
+    "Id": 107,
+    "UserID": 1,
+    "VariantID": 479,
+    "RowNum": 257707
+  },
+  {
+    "Id": 108,
+    "UserID": 1,
+    "VariantID": 500,
+    "RowNum": 257750
+  },
+  {
+    "Id": 109,
+    "UserID": 1,
+    "VariantID": 480,
+    "RowNum": 257779
+  },
+  {
+    "Id": 110,
+    "UserID": 1,
+    "VariantID": 120,
+    "RowNum": 260119
+  },
+  {
+    "Id": 111,
+    "UserID": 1,
+    "VariantID": 234,
+    "RowNum": 260182
+  },
+  {
+    "Id": 112,
+    "UserID": 1,
+    "VariantID": 233,
+    "RowNum": 260185
+  },
+  {
+    "Id": 113,
+    "UserID": 1,
+    "VariantID": 515,
+    "RowNum": 260210
+  },
+  {
+    "Id": 114,
+    "UserID": 1,
+    "VariantID": 231,
+    "RowNum": 260218
+  },
+  {
+    "Id": 115,
+    "UserID": 1,
+    "VariantID": 72,
+    "RowNum": 266145
+  },
+  {
+    "Id": 116,
+    "UserID": 1,
+    "VariantID": 155,
+    "RowNum": 266183
+  },
+  {
+    "Id": 117,
+    "UserID": 1,
+    "VariantID": 132,
+    "RowNum": 279708
+  },
+  {
+    "Id": 118,
+    "UserID": 1,
+    "VariantID": 290,
+    "RowNum": 279718
+  },
+  {
+    "Id": 119,
+    "UserID": 1,
+    "VariantID": 134,
+    "RowNum": 279740
+  },
+  {
+    "Id": 120,
+    "UserID": 1,
+    "VariantID": 255,
+    "RowNum": 282796
+  },
+  {
+    "Id": 121,
+    "UserID": 1,
+    "VariantID": 724,
+    "RowNum": 286272
+  },
+  {
+    "Id": 122,
+    "UserID": 1,
+    "VariantID": 708,
+    "RowNum": 305369
+  },
+  {
+    "Id": 123,
+    "UserID": 1,
+    "VariantID": 202,
+    "RowNum": 327013
+  },
+  {
+    "Id": 124,
+    "UserID": 1,
+    "VariantID": 49,
+    "RowNum": 343127
+  },
+  {
+    "Id": 125,
+    "UserID": 1,
+    "VariantID": 872,
+    "RowNum": 351102
+  },
+  {
+    "Id": 126,
+    "UserID": 1,
+    "VariantID": 153,
+    "RowNum": 351119
+  },
+  {
+    "Id": 127,
+    "UserID": 1,
+    "VariantID": 154,
+    "RowNum": 351156
+  },
+  {
+    "Id": 128,
+    "UserID": 1,
+    "VariantID": 703,
+    "RowNum": 356879
+  },
+  {
+    "Id": 129,
+    "UserID": 1,
+    "VariantID": 922,
+    "RowNum": 359038
+  },
+  {
+    "Id": 130,
+    "UserID": 1,
+    "VariantID": 556,
+    "RowNum": 361614
+  },
+  {
+    "Id": 131,
+    "UserID": 1,
+    "VariantID": 156,
+    "RowNum": 366989
+  },
+  {
+    "Id": 132,
+    "UserID": 1,
+    "VariantID": 860,
+    "RowNum": 370587
+  },
+  {
+    "Id": 133,
+    "UserID": 1,
+    "VariantID": 111,
+    "RowNum": 373279
+  },
+  {
+    "Id": 134,
+    "UserID": 1,
+    "VariantID": 245,
+    "RowNum": 382800
+  },
+  {
+    "Id": 135,
+    "UserID": 1,
+    "VariantID": 862,
+    "RowNum": 382812
+  },
+  {
+    "Id": 136,
+    "UserID": 1,
+    "VariantID": 419,
+    "RowNum": 382945
+  },
+  {
+    "Id": 137,
+    "UserID": 1,
+    "VariantID": 221,
+    "RowNum": 389060
+  },
+  {
+    "Id": 138,
+    "UserID": 1,
+    "VariantID": 252,
+    "RowNum": 393868
+  },
+  {
+    "Id": 139,
+    "UserID": 1,
+    "VariantID": 16,
+    "RowNum": 393961
+  },
+  {
+    "Id": 140,
+    "UserID": 1,
+    "VariantID": 247,
+    "RowNum": 393967
+  },
+  {
+    "Id": 141,
+    "UserID": 1,
+    "VariantID": 77,
+    "RowNum": 393998
+  },
+  {
+    "Id": 142,
+    "UserID": 1,
+    "VariantID": 169,
+    "RowNum": 399171
+  },
+  {
+    "Id": 143,
+    "UserID": 1,
+    "VariantID": 695,
+    "RowNum": 419428
+  },
+  {
+    "Id": 144,
+    "UserID": 1,
+    "VariantID": 681,
+    "RowNum": 424306
+  },
+  {
+    "Id": 145,
+    "UserID": 1,
+    "VariantID": 302,
+    "RowNum": 424320
+  },
+  {
+    "Id": 146,
+    "UserID": 1,
+    "VariantID": 84,
+    "RowNum": 448159
+  },
+  {
+    "Id": 147,
+    "UserID": 1,
+    "VariantID": 90,
+    "RowNum": 469111
+  },
+  {
+    "Id": 148,
+    "UserID": 1,
+    "VariantID": 337,
+    "RowNum": 469123
+  },
+  {
+    "Id": 149,
+    "UserID": 1,
+    "VariantID": 311,
+    "RowNum": 469137
+  },
+  {
+    "Id": 150,
+    "UserID": 1,
+    "VariantID": 148,
+    "RowNum": 469155
+  },
+  {
+    "Id": 151,
+    "UserID": 1,
+    "VariantID": 386,
+    "RowNum": 483559
+  },
+  {
+    "Id": 152,
+    "UserID": 1,
+    "VariantID": 345,
+    "RowNum": 484205
+  },
+  {
+    "Id": 153,
+    "UserID": 1,
+    "VariantID": 491,
+    "RowNum": 484991
+  },
+  {
+    "Id": 154,
+    "UserID": 1,
+    "VariantID": 493,
+    "RowNum": 485002
+  },
+  {
+    "Id": 155,
+    "UserID": 1,
+    "VariantID": 492,
+    "RowNum": 485007
+  },
+  {
+    "Id": 156,
+    "UserID": 1,
+    "VariantID": 632,
+    "RowNum": 488325
+  },
+  {
+    "Id": 157,
+    "UserID": 1,
+    "VariantID": 608,
+    "RowNum": 500283
+  },
+  {
+    "Id": 158,
+    "UserID": 1,
+    "VariantID": 825,
+    "RowNum": 504760
+  },
+  {
+    "Id": 159,
+    "UserID": 1,
+    "VariantID": 835,
+    "RowNum": 525009
+  },
+  {
+    "Id": 160,
+    "UserID": 1,
+    "VariantID": 557,
+    "RowNum": 525555
+  },
+  {
+    "Id": 161,
+    "UserID": 1,
+    "VariantID": 199,
+    "RowNum": 534278
+  },
+  {
+    "Id": 162,
+    "UserID": 1,
+    "VariantID": 761,
+    "RowNum": 539254
+  },
+  {
+    "Id": 163,
+    "UserID": 1,
+    "VariantID": 887,
+    "RowNum": 543945
+  },
+  {
+    "Id": 164,
+    "UserID": 1,
+    "VariantID": 213,
+    "RowNum": 565536
+  },
+  {
+    "Id": 165,
+    "UserID": 1,
+    "VariantID": 52,
+    "RowNum": 565555
+  },
+  {
+    "Id": 166,
+    "UserID": 1,
+    "VariantID": 460,
+    "RowNum": 566573
+  },
+  {
+    "Id": 167,
+    "UserID": 1,
+    "VariantID": 462,
+    "RowNum": 566591
+  },
+  {
+    "Id": 168,
+    "UserID": 1,
+    "VariantID": 464,
+    "RowNum": 566593
+  },
+  {
+    "Id": 169,
+    "UserID": 1,
+    "VariantID": 463,
+    "RowNum": 566608
+  },
+  {
+    "Id": 170,
+    "UserID": 1,
+    "VariantID": 3,
+    "RowNum": 567532
+  }
+]

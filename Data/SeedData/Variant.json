@@ -1,0 +1,5600 @@
+[
+ {
+   "Id": 1,
+   "RSID": "rs10778228",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 2,
+   "RSID": "rs9545683",
+   "Chromosome": "13",
+   "Allele": "C"
+ },
+ {
+   "Id": 3,
+   "RSID": "rs5760410",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 4,
+   "RSID": "rs4147581",
+   "Chromosome": "11",
+   "Allele": "GG"
+ },
+ {
+   "Id": 5,
+   "RSID": "rs1519483",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 6,
+   "RSID": "rs1885155",
+   "Chromosome": "14",
+   "Allele": "C"
+ },
+ {
+   "Id": 7,
+   "RSID": "rs1954787",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 8,
+   "RSID": "rs2227956",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 9,
+   "RSID": "rs2108622",
+   "Chromosome": "19",
+   "Allele": "TT"
+ },
+ {
+   "Id": 10,
+   "RSID": "rs1042714",
+   "Chromosome": "5",
+   "Allele": "CC"
+ },
+ {
+   "Id": 11,
+   "RSID": "rs5065",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 12,
+   "RSID": "rs2032583",
+   "Chromosome": "7",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 13,
+   "RSID": "rs12720441",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 14,
+   "RSID": "rs104894540",
+   "Chromosome": "X",
+   "Allele": "G"
+ },
+ {
+   "Id": 15,
+   "RSID": "rs5065",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 16,
+   "RSID": "rs2306283",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 17,
+   "RSID": "rs6295",
+   "Chromosome": "5",
+   "Allele": "CC"
+ },
+ {
+   "Id": 18,
+   "RSID": "rs12248560",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 19,
+   "RSID": "rs246240",
+   "Chromosome": "16",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 20,
+   "RSID": "rs2278293",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 21,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "AA"
+ },
+ {
+   "Id": 22,
+   "RSID": "rs2238476",
+   "Chromosome": "16",
+   "Allele": "GG"
+ },
+ {
+   "Id": 23,
+   "RSID": "rs2372536",
+   "Chromosome": "2",
+   "Allele": "GG"
+ },
+ {
+   "Id": 24,
+   "RSID": "rs4646",
+   "Chromosome": "15",
+   "Allele": "A"
+ },
+ {
+   "Id": 25,
+   "RSID": "rs6313",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 26,
+   "RSID": "rs3813929",
+   "Chromosome": "X",
+   "Allele": "T"
+ },
+ {
+   "Id": 27,
+   "RSID": "rs10918594",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 28,
+   "RSID": "rs4994",
+   "Chromosome": "8",
+   "Allele": "GG"
+ },
+ {
+   "Id": 29,
+   "RSID": "rs10494366",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 30,
+   "RSID": "rs6280",
+   "Chromosome": "3",
+   "Allele": "CC"
+ },
+ {
+   "Id": 31,
+   "RSID": "rs1123617",
+   "Chromosome": "18",
+   "Allele": "AG"
+ },
+ {
+   "Id": 32,
+   "RSID": "rs3745009",
+   "Chromosome": "18",
+   "Allele": "AG"
+ },
+ {
+   "Id": 33,
+   "RSID": "rs4731426",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 34,
+   "RSID": "rs17238540",
+   "Chromosome": "5",
+   "Allele": "GT"
+ },
+ {
+   "Id": 35,
+   "RSID": "rs17244841",
+   "Chromosome": "5",
+   "Allele": "AT"
+ },
+ {
+   "Id": 36,
+   "RSID": "rs20455",
+   "Chromosome": "6",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 37,
+   "RSID": "rs20455",
+   "Chromosome": "6",
+   "Allele": "AA"
+ },
+ {
+   "Id": 38,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 39,
+   "RSID": "rs20417",
+   "Chromosome": "1",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 40,
+   "RSID": "rs1801131",
+   "Chromosome": "1",
+   "Allele": "T"
+ },
+ {
+   "Id": 41,
+   "RSID": "rs1801131",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 42,
+   "RSID": "rs1801131",
+   "Chromosome": "1",
+   "Allele": "TT"
+ },
+ {
+   "Id": 43,
+   "RSID": "rs9345389",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 44,
+   "RSID": "rs4888024",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 45,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "AA"
+ },
+ {
+   "Id": 46,
+   "RSID": "rs2108622",
+   "Chromosome": "19",
+   "Allele": "CC"
+ },
+ {
+   "Id": 47,
+   "RSID": "rs7992226",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 48,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "AG"
+ },
+ {
+   "Id": 49,
+   "RSID": "rs10821936",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 50,
+   "RSID": "rs4846051",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 51,
+   "RSID": "rs1800909",
+   "Chromosome": "8",
+   "Allele": "G"
+ },
+ {
+   "Id": 52,
+   "RSID": "rs1051266",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 53,
+   "RSID": "rs2273697",
+   "Chromosome": "10",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 54,
+   "RSID": "rs7997012",
+   "Chromosome": "13",
+   "Allele": "AA"
+ },
+ {
+   "Id": 55,
+   "RSID": "rs762551",
+   "Chromosome": "15",
+   "Allele": "AA"
+ },
+ {
+   "Id": 56,
+   "RSID": "rs2742423",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 57,
+   "RSID": "rs6920220",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 58,
+   "RSID": "rs506770",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 59,
+   "RSID": "rs3211371",
+   "Chromosome": "19",
+   "Allele": "TT"
+ },
+ {
+   "Id": 60,
+   "RSID": "rs3211371",
+   "Chromosome": "19",
+   "Allele": "CT"
+ },
+ {
+   "Id": 61,
+   "RSID": "rs9923231",
+   "Chromosome": "16",
+   "Allele": "T"
+ },
+ {
+   "Id": 62,
+   "RSID": "rs1051266",
+   "Chromosome": "21",
+   "Allele": "TT"
+ },
+ {
+   "Id": 63,
+   "RSID": "rs3758149",
+   "Chromosome": "8",
+   "Allele": "AA"
+ },
+ {
+   "Id": 64,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 65,
+   "RSID": "rs1801394",
+   "Chromosome": "5",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 66,
+   "RSID": "rs2236624",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 67,
+   "RSID": "rs1051266",
+   "Chromosome": "21",
+   "Allele": "C"
+ },
+ {
+   "Id": 68,
+   "RSID": "rs2298383",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 69,
+   "RSID": "rs2267076",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 70,
+   "RSID": "rs3761422",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 71,
+   "RSID": "rs877087",
+   "Chromosome": "15",
+   "Allele": "TT"
+ },
+ {
+   "Id": 72,
+   "RSID": "rs7799039",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 73,
+   "RSID": "rs1799978",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 74,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 75,
+   "RSID": "rs11045879",
+   "Chromosome": "12",
+   "Allele": "T"
+ },
+ {
+   "Id": 76,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "C"
+ },
+ {
+   "Id": 77,
+   "RSID": "rs4149081",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 78,
+   "RSID": "rs1801131",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 79,
+   "RSID": "rs167771",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 80,
+   "RSID": "rs3130690",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 81,
+   "RSID": "rs2848716",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 82,
+   "RSID": "rs2894342",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 83,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "A"
+ },
+ {
+   "Id": 84,
+   "RSID": "rs2236225",
+   "Chromosome": "14",
+   "Allele": "A"
+ },
+ {
+   "Id": 85,
+   "RSID": "rs4244285",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 86,
+   "RSID": "rs11188072",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 87,
+   "RSID": "rs2500535",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 88,
+   "RSID": "rs2235040",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 89,
+   "RSID": "rs2278293",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 90,
+   "RSID": "rs2606345",
+   "Chromosome": "15",
+   "Allele": "A"
+ },
+ {
+   "Id": 91,
+   "RSID": "rs2278294",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 92,
+   "RSID": "rs1256049",
+   "Chromosome": "14",
+   "Allele": "CC"
+ },
+ {
+   "Id": 93,
+   "RSID": "rs2269577",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 94,
+   "RSID": "rs2357928",
+   "Chromosome": "10",
+   "Allele": "GG"
+ },
+ {
+   "Id": 95,
+   "RSID": "rs6313",
+   "Chromosome": "13",
+   "Allele": "GG"
+ },
+ {
+   "Id": 96,
+   "RSID": "rs6314",
+   "Chromosome": "13",
+   "Allele": "AG"
+ },
+ {
+   "Id": 97,
+   "RSID": "rs7439366",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 98,
+   "RSID": "rs7438284",
+   "Chromosome": "4",
+   "Allele": "A"
+ },
+ {
+   "Id": 99,
+   "RSID": "rs6759892",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 100,
+   "RSID": "rs1105879",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 101,
+   "RSID": "rs11014166",
+   "Chromosome": "10",
+   "Allele": "AT + TT"
+ },
+ {
+   "Id": 102,
+   "RSID": "rs11014166",
+   "Chromosome": "10",
+   "Allele": "AA"
+ },
+ {
+   "Id": 103,
+   "RSID": "rs2070959",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 104,
+   "RSID": "rs6785049",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 105,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "CC"
+ },
+ {
+   "Id": 106,
+   "RSID": "rs1544410",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 107,
+   "RSID": "rs4720833",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 108,
+   "RSID": "rs9344",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 109,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 110,
+   "RSID": "rs1065852",
+   "Chromosome": "22",
+   "Allele": "AA"
+ },
+ {
+   "Id": 111,
+   "RSID": "rs1695",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 112,
+   "RSID": "rs4825476",
+   "Chromosome": "X",
+   "Allele": "G"
+ },
+ {
+   "Id": 113,
+   "RSID": "rs2518224",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 114,
+   "RSID": "rs1208",
+   "Chromosome": "8",
+   "Allele": "G"
+ },
+ {
+   "Id": 115,
+   "RSID": "rs1801394",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 116,
+   "RSID": "rs1805087",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 117,
+   "RSID": "rs2304016",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 118,
+   "RSID": "rs11545078",
+   "Chromosome": "8",
+   "Allele": "A"
+ },
+ {
+   "Id": 119,
+   "RSID": "rs1805087",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 120,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 121,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 122,
+   "RSID": "rs9923231",
+   "Chromosome": "16",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 123,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "AG"
+ },
+ {
+   "Id": 124,
+   "RSID": "rs4986790",
+   "Chromosome": "9",
+   "Allele": "G"
+ },
+ {
+   "Id": 125,
+   "RSID": "rs4148396",
+   "Chromosome": "10",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 126,
+   "RSID": "rs2273697",
+   "Chromosome": "10",
+   "Allele": "AA"
+ },
+ {
+   "Id": 127,
+   "RSID": "rs2372536",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 128,
+   "RSID": "rs1801394",
+   "Chromosome": "5",
+   "Allele": "AA"
+ },
+ {
+   "Id": 129,
+   "RSID": "rs2231142",
+   "Chromosome": "4",
+   "Allele": "TT"
+ },
+ {
+   "Id": 130,
+   "RSID": "rs1801282",
+   "Chromosome": "3",
+   "Allele": "CG"
+ },
+ {
+   "Id": 131,
+   "RSID": "rs719235",
+   "Chromosome": "8",
+   "Allele": "CC"
+ },
+ {
+   "Id": 132,
+   "RSID": "rs1041983",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 133,
+   "RSID": "rs34059508",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 134,
+   "RSID": "rs1495741",
+   "Chromosome": "8",
+   "Allele": "G"
+ },
+ {
+   "Id": 135,
+   "RSID": "rs1799931",
+   "Chromosome": "8",
+   "Allele": "A"
+ },
+ {
+   "Id": 136,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 137,
+   "RSID": "rs135550",
+   "Chromosome": "22",
+   "Allele": "TT"
+ },
+ {
+   "Id": 138,
+   "RSID": "rs2740574",
+   "Chromosome": "7",
+   "Allele": "CC + TT"
+ },
+ {
+   "Id": 139,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "AA"
+ },
+ {
+   "Id": 140,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "AA"
+ },
+ {
+   "Id": 141,
+   "RSID": "rs2237895",
+   "Chromosome": "11",
+   "Allele": "CC"
+ },
+ {
+   "Id": 142,
+   "RSID": "rs9626730",
+   "Chromosome": "22",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 143,
+   "RSID": "rs2010156",
+   "Chromosome": "20",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 144,
+   "RSID": "rs9923231",
+   "Chromosome": "16",
+   "Allele": "TT"
+ },
+ {
+   "Id": 145,
+   "RSID": "rs2470890",
+   "Chromosome": "15",
+   "Allele": "T"
+ },
+ {
+   "Id": 146,
+   "RSID": "rs135543",
+   "Chromosome": "22",
+   "Allele": "TT"
+ },
+ {
+   "Id": 147,
+   "RSID": "rs2306719",
+   "Chromosome": "15",
+   "Allele": "TT"
+ },
+ {
+   "Id": 148,
+   "RSID": "rs2472304",
+   "Chromosome": "15",
+   "Allele": "A"
+ },
+ {
+   "Id": 149,
+   "RSID": "rs4646427",
+   "Chromosome": "15",
+   "Allele": "TT"
+ },
+ {
+   "Id": 150,
+   "RSID": "rs4646425",
+   "Chromosome": "15",
+   "Allele": "T"
+ },
+ {
+   "Id": 151,
+   "RSID": "rs4984241",
+   "Chromosome": "15",
+   "Allele": "AA"
+ },
+ {
+   "Id": 152,
+   "RSID": "rs4149117",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 153,
+   "RSID": "rs2273697",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 154,
+   "RSID": "rs3740066",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 155,
+   "RSID": "rs2278294",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 156,
+   "RSID": "rs6265",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 157,
+   "RSID": "rs316019",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 158,
+   "RSID": "rs1633021",
+   "Chromosome": "6",
+   "Allele": "TT"
+ },
+ {
+   "Id": 159,
+   "RSID": "rs12221497",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 160,
+   "RSID": "rs2738466",
+   "Chromosome": "19",
+   "Allele": "G"
+ },
+ {
+   "Id": 161,
+   "RSID": "rs4148977",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 162,
+   "RSID": "rs12208357",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 163,
+   "RSID": "rs4148978",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 164,
+   "RSID": "rs1799853",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 165,
+   "RSID": "rs1057910",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 166,
+   "RSID": "rs34130495",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 167,
+   "RSID": "rs10423928",
+   "Chromosome": "19",
+   "Allele": "AA"
+ },
+ {
+   "Id": 168,
+   "RSID": "rs6413432",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 169,
+   "RSID": "rs2228570",
+   "Chromosome": "12",
+   "Allele": "A"
+ },
+ {
+   "Id": 170,
+   "RSID": "rs1057910",
+   "Chromosome": "10",
+   "Allele": "AC"
+ },
+ {
+   "Id": 171,
+   "RSID": "rs6702335",
+   "Chromosome": "1",
+   "Allele": "AA"
+ },
+ {
+   "Id": 172,
+   "RSID": "rs130058",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 173,
+   "RSID": "rs35068180",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 174,
+   "RSID": "rs1042714",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 175,
+   "RSID": "rs2011425",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 176,
+   "RSID": "rs2838956",
+   "Chromosome": "21",
+   "Allele": "G"
+ },
+ {
+   "Id": 177,
+   "RSID": "rs12720067",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 178,
+   "RSID": "rs9977268",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 179,
+   "RSID": "rs3763980",
+   "Chromosome": "12",
+   "Allele": "A"
+ },
+ {
+   "Id": 180,
+   "RSID": "rs7997012",
+   "Chromosome": "13",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 181,
+   "RSID": "rs11191548",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 182,
+   "RSID": "rs2301149",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 183,
+   "RSID": "rs11739136",
+   "Chromosome": "5",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 184,
+   "RSID": "rs4633",
+   "Chromosome": "22",
+   "Allele": "C"
+ },
+ {
+   "Id": 185,
+   "RSID": "rs34399035",
+   "Chromosome": "17",
+   "Allele": "T"
+ },
+ {
+   "Id": 186,
+   "RSID": "rs7900194",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 187,
+   "RSID": "rs2298826",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 188,
+   "RSID": "rs11746641",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 189,
+   "RSID": "rs4713916",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 190,
+   "RSID": "rs2242480",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 191,
+   "RSID": "rs2168631",
+   "Chromosome": "5",
+   "Allele": "A"
+ },
+ {
+   "Id": 192,
+   "RSID": "rs5186",
+   "Chromosome": "3",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 193,
+   "RSID": "rs5219",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 194,
+   "RSID": "rs2740574",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 195,
+   "RSID": "rs11706052",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 196,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 197,
+   "RSID": "rs242941",
+   "Chromosome": "17",
+   "Allele": "CC"
+ },
+ {
+   "Id": 198,
+   "RSID": "rs3815583",
+   "Chromosome": "16",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 199,
+   "RSID": "rs2108622",
+   "Chromosome": "19",
+   "Allele": "C"
+ },
+ {
+   "Id": 200,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "AA + AT"
+ },
+ {
+   "Id": 201,
+   "RSID": "rs4244285",
+   "Chromosome": "10",
+   "Allele": "AA"
+ },
+ {
+   "Id": 202,
+   "RSID": "rs4451422",
+   "Chromosome": "9",
+   "Allele": "C"
+ },
+ {
+   "Id": 203,
+   "RSID": "rs7787082",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 204,
+   "RSID": "rs11749035",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 205,
+   "RSID": "rs1042713",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 206,
+   "RSID": "rs6280",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 207,
+   "RSID": "rs12721655",
+   "Chromosome": "19",
+   "Allele": "G"
+ },
+ {
+   "Id": 208,
+   "RSID": "rs12517451",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 209,
+   "RSID": "rs11702425",
+   "Chromosome": "21",
+   "Allele": "C"
+ },
+ {
+   "Id": 210,
+   "RSID": "rs10072026",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 211,
+   "RSID": "rs1801253",
+   "Chromosome": "10",
+   "Allele": "CC"
+ },
+ {
+   "Id": 212,
+   "RSID": "rs708272",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 213,
+   "RSID": "rs7279445",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 214,
+   "RSID": "rs1805128",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 215,
+   "RSID": "rs4341",
+   "Chromosome": "17",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 216,
+   "RSID": "rs4961",
+   "Chromosome": "4",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 217,
+   "RSID": "rs2011425",
+   "Chromosome": "2",
+   "Allele": "GG + GT"
+ },
+ {
+   "Id": 218,
+   "RSID": "rs1799998",
+   "Chromosome": "8",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 219,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 220,
+   "RSID": "rs1801394",
+   "Chromosome": "5",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 221,
+   "RSID": "rs7295250",
+   "Chromosome": "12",
+   "Allele": "T"
+ },
+ {
+   "Id": 222,
+   "RSID": "rs1127354",
+   "Chromosome": "20",
+   "Allele": "A"
+ },
+ {
+   "Id": 223,
+   "RSID": "rs2189784",
+   "Chromosome": "19",
+   "Allele": "GG"
+ },
+ {
+   "Id": 224,
+   "RSID": "rs6956344",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 225,
+   "RSID": "rs16889462",
+   "Chromosome": "8",
+   "Allele": "AG"
+ },
+ {
+   "Id": 226,
+   "RSID": "rs1360780",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 227,
+   "RSID": "rs3800373",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 228,
+   "RSID": "rs2274808",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 229,
+   "RSID": "rs12681874",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 230,
+   "RSID": "rs3892097",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 231,
+   "RSID": "rs1851426",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 232,
+   "RSID": "rs2257401",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 233,
+   "RSID": "rs2687116",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 234,
+   "RSID": "rs4646437",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 235,
+   "RSID": "rs2306283",
+   "Chromosome": "12",
+   "Allele": "GG"
+ },
+ {
+   "Id": 236,
+   "RSID": "rs28399504",
+   "Chromosome": "10",
+   "Allele": "AG"
+ },
+ {
+   "Id": 237,
+   "RSID": "rs6313",
+   "Chromosome": "13",
+   "Allele": "AA"
+ },
+ {
+   "Id": 238,
+   "RSID": "rs3892097",
+   "Chromosome": "22",
+   "Allele": "TT"
+ },
+ {
+   "Id": 239,
+   "RSID": "rs1801262",
+   "Chromosome": "2",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 240,
+   "RSID": "rs4253728",
+   "Chromosome": "22",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 241,
+   "RSID": "rs4253728",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 242,
+   "RSID": "rs10919035",
+   "Chromosome": "1",
+   "Allele": "T"
+ },
+ {
+   "Id": 243,
+   "RSID": "rs9934438",
+   "Chromosome": "16",
+   "Allele": "AA"
+ },
+ {
+   "Id": 244,
+   "RSID": "rs7877",
+   "Chromosome": "1",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 245,
+   "RSID": "rs6279",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 246,
+   "RSID": "rs12720462",
+   "Chromosome": "1",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 247,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "T"
+ },
+ {
+   "Id": 248,
+   "RSID": "rs4149117",
+   "Chromosome": "12",
+   "Allele": "TT"
+ },
+ {
+   "Id": 249,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "AC + CT"
+ },
+ {
+   "Id": 250,
+   "RSID": "rs4253778",
+   "Chromosome": "22",
+   "Allele": "GG"
+ },
+ {
+   "Id": 251,
+   "RSID": "rs6275",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 252,
+   "RSID": "rs4149117",
+   "Chromosome": "12",
+   "Allele": "T"
+ },
+ {
+   "Id": 253,
+   "RSID": "rs12943590",
+   "Chromosome": "17",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 254,
+   "RSID": "rs12943590",
+   "Chromosome": "17",
+   "Allele": "AA"
+ },
+ {
+   "Id": 255,
+   "RSID": "rs352428",
+   "Chromosome": "8",
+   "Allele": "A"
+ },
+ {
+   "Id": 256,
+   "RSID": "rs2108622",
+   "Chromosome": "19",
+   "Allele": "T"
+ },
+ {
+   "Id": 257,
+   "RSID": "rs3784862",
+   "Chromosome": "16",
+   "Allele": "AA"
+ },
+ {
+   "Id": 258,
+   "RSID": "rs4148739",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 259,
+   "RSID": "rs10280101",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 260,
+   "RSID": "rs1800566",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 261,
+   "RSID": "rs1124493",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 262,
+   "RSID": "rs1414334",
+   "Chromosome": "X",
+   "Allele": "C"
+ },
+ {
+   "Id": 263,
+   "RSID": "rs2742417",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 264,
+   "RSID": "rs3765534",
+   "Chromosome": "13",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 265,
+   "RSID": "rs2251954",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 266,
+   "RSID": "rs2742421",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 267,
+   "RSID": "rs2245705",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 268,
+   "RSID": "rs2742390",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 269,
+   "RSID": "rs2742435",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 270,
+   "RSID": "rs1799931",
+   "Chromosome": "8",
+   "Allele": "AG"
+ },
+ {
+   "Id": 271,
+   "RSID": "rs2266780",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 272,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 273,
+   "RSID": "rs9516519",
+   "Chromosome": "13",
+   "Allele": "GG + GT"
+ },
+ {
+   "Id": 274,
+   "RSID": "rs114202595",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 275,
+   "RSID": "rs4148740",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 276,
+   "RSID": "rs2960306",
+   "Chromosome": "4",
+   "Allele": "TT"
+ },
+ {
+   "Id": 277,
+   "RSID": "rs2031920",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 278,
+   "RSID": "rs10800397",
+   "Chromosome": "1",
+   "Allele": "T"
+ },
+ {
+   "Id": 279,
+   "RSID": "rs1799929",
+   "Chromosome": "8",
+   "Allele": "CT"
+ },
+ {
+   "Id": 280,
+   "RSID": "rs6413432",
+   "Chromosome": "10",
+   "Allele": "AT"
+ },
+ {
+   "Id": 281,
+   "RSID": "rs9380524",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 282,
+   "RSID": "rs9469003",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 283,
+   "RSID": "rs9483947",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 284,
+   "RSID": "rs2497538",
+   "Chromosome": "X",
+   "Allele": "C"
+ },
+ {
+   "Id": 285,
+   "RSID": "rs12208357",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 286,
+   "RSID": "rs11706052",
+   "Chromosome": "3",
+   "Allele": "AG"
+ },
+ {
+   "Id": 287,
+   "RSID": "rs1800532",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 288,
+   "RSID": "rs3212191",
+   "Chromosome": "20",
+   "Allele": "TT"
+ },
+ {
+   "Id": 289,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "GG"
+ },
+ {
+   "Id": 290,
+   "RSID": "rs1799930",
+   "Chromosome": "8",
+   "Allele": "A"
+ },
+ {
+   "Id": 291,
+   "RSID": "rs1801280",
+   "Chromosome": "8",
+   "Allele": "C"
+ },
+ {
+   "Id": 292,
+   "RSID": "rs1799732",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 293,
+   "RSID": "rs7284807",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 294,
+   "RSID": "rs6714486",
+   "Chromosome": "2",
+   "Allele": "AA + AT"
+ },
+ {
+   "Id": 295,
+   "RSID": "rs77005399",
+   "Chromosome": "18",
+   "Allele": "T"
+ },
+ {
+   "Id": 296,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 297,
+   "RSID": "rs1056663",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 298,
+   "RSID": "rs2037483",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 299,
+   "RSID": "rs75160992",
+   "Chromosome": "18",
+   "Allele": "C"
+ },
+ {
+   "Id": 300,
+   "RSID": "rs3892097",
+   "Chromosome": "22",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 301,
+   "RSID": "rs77499608",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 302,
+   "RSID": "rs6311",
+   "Chromosome": "13",
+   "Allele": "T"
+ },
+ {
+   "Id": 303,
+   "RSID": "rs6280",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 304,
+   "RSID": "rs76458556",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 305,
+   "RSID": "rs11572076",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 306,
+   "RSID": "rs1799929",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 307,
+   "RSID": "rs11572103",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 308,
+   "RSID": "rs4410790",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 309,
+   "RSID": "rs12233719",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 310,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 311,
+   "RSID": "rs762551",
+   "Chromosome": "15",
+   "Allele": "A"
+ },
+ {
+   "Id": 312,
+   "RSID": "rs2279020",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 313,
+   "RSID": "rs1799971",
+   "Chromosome": "6",
+   "Allele": "GG"
+ },
+ {
+   "Id": 314,
+   "RSID": "rs568408",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 315,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 316,
+   "RSID": "rs211037",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 317,
+   "RSID": "rs2108622",
+   "Chromosome": "19",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 318,
+   "RSID": "rs1799930",
+   "Chromosome": "8",
+   "Allele": "AA"
+ },
+ {
+   "Id": 319,
+   "RSID": "rs17135437",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 320,
+   "RSID": "rs17868320",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 321,
+   "RSID": "rs11111201",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 322,
+   "RSID": "rs2279020",
+   "Chromosome": "5",
+   "Allele": "GG"
+ },
+ {
+   "Id": 323,
+   "RSID": "rs17863762",
+   "Chromosome": "2",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 324,
+   "RSID": "rs1042597",
+   "Chromosome": "2",
+   "Allele": "CC"
+ },
+ {
+   "Id": 325,
+   "RSID": "rs4974081",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 326,
+   "RSID": "rs679899",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 327,
+   "RSID": "rs72551330",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 328,
+   "RSID": "rs13306194",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 329,
+   "RSID": "rs769450",
+   "Chromosome": "19",
+   "Allele": "A"
+ },
+ {
+   "Id": 330,
+   "RSID": "rs2298771",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 331,
+   "RSID": "rs1799929",
+   "Chromosome": "8",
+   "Allele": "TT"
+ },
+ {
+   "Id": 332,
+   "RSID": "rs1864729",
+   "Chromosome": "8",
+   "Allele": "A"
+ },
+ {
+   "Id": 333,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 334,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "TT"
+ },
+ {
+   "Id": 335,
+   "RSID": "rs17863762",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 336,
+   "RSID": "rs7311358",
+   "Chromosome": "12",
+   "Allele": "AA"
+ },
+ {
+   "Id": 337,
+   "RSID": "rs2472297",
+   "Chromosome": "15",
+   "Allele": "T"
+ },
+ {
+   "Id": 338,
+   "RSID": "rs6413432",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 339,
+   "RSID": "rs717620",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 340,
+   "RSID": "rs776746",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 341,
+   "RSID": "rs45607939",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 342,
+   "RSID": "rs8190370",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 343,
+   "RSID": "rs7663179",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 344,
+   "RSID": "rs4680",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 345,
+   "RSID": "rs8060157",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 346,
+   "RSID": "rs1800888",
+   "Chromosome": "5",
+   "Allele": "TT"
+ },
+ {
+   "Id": 347,
+   "RSID": "rs5896",
+   "Chromosome": "11",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 348,
+   "RSID": "rs510317",
+   "Chromosome": "13",
+   "Allele": "GG"
+ },
+ {
+   "Id": 349,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "CC"
+ },
+ {
+   "Id": 350,
+   "RSID": "rs35599367",
+   "Chromosome": "7",
+   "Allele": "AG"
+ },
+ {
+   "Id": 351,
+   "RSID": "rs9934438",
+   "Chromosome": "16",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 352,
+   "RSID": "rs12777823",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 353,
+   "RSID": "rs1042713",
+   "Chromosome": "5",
+   "Allele": "GG"
+ },
+ {
+   "Id": 354,
+   "RSID": "rs570317",
+   "Chromosome": "19",
+   "Allele": "G"
+ },
+ {
+   "Id": 355,
+   "RSID": "rs2740574",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 356,
+   "RSID": "rs2241883",
+   "Chromosome": "2",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 357,
+   "RSID": "rs2230806",
+   "Chromosome": "9",
+   "Allele": "TT"
+ },
+ {
+   "Id": 358,
+   "RSID": "rs8050894",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 359,
+   "RSID": "rs9934438",
+   "Chromosome": "16",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 360,
+   "RSID": "rs17655652",
+   "Chromosome": "7",
+   "Allele": "CC"
+ },
+ {
+   "Id": 361,
+   "RSID": "rs9934438",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 362,
+   "RSID": "rs5985",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 363,
+   "RSID": "rs2231142",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 364,
+   "RSID": "rs28371685",
+   "Chromosome": "10",
+   "Allele": "CT"
+ },
+ {
+   "Id": 365,
+   "RSID": "rs510335",
+   "Chromosome": "13",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 366,
+   "RSID": "rs9934438",
+   "Chromosome": "16",
+   "Allele": "AG"
+ },
+ {
+   "Id": 367,
+   "RSID": "rs4986790",
+   "Chromosome": "9",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 368,
+   "RSID": "rs2901783",
+   "Chromosome": "10",
+   "Allele": "G"
+ },
+ {
+   "Id": 369,
+   "RSID": "rs2359612",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 370,
+   "RSID": "rs9376230",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 371,
+   "RSID": "rs9332096",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 372,
+   "RSID": "rs4918758",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 373,
+   "RSID": "rs16944",
+   "Chromosome": "2",
+   "Allele": "GG"
+ },
+ {
+   "Id": 374,
+   "RSID": "rs699664",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 375,
+   "RSID": "rs2066844",
+   "Chromosome": "16",
+   "Allele": "CC"
+ },
+ {
+   "Id": 376,
+   "RSID": "rs699664",
+   "Chromosome": "2",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 377,
+   "RSID": "rs461473",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 378,
+   "RSID": "rs2286461",
+   "Chromosome": "4",
+   "Allele": "A"
+ },
+ {
+   "Id": 379,
+   "RSID": "rs367543000",
+   "Chromosome": "22",
+   "Allele": "AG"
+ },
+ {
+   "Id": 380,
+   "RSID": "rs17878544",
+   "Chromosome": "16",
+   "Allele": "C"
+ },
+ {
+   "Id": 381,
+   "RSID": "rs17222723",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 382,
+   "RSID": "rs2252281",
+   "Chromosome": "17",
+   "Allele": "C"
+ },
+ {
+   "Id": 383,
+   "RSID": "rs4986791",
+   "Chromosome": "9",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 384,
+   "RSID": "rs17880887",
+   "Chromosome": "16",
+   "Allele": "T"
+ },
+ {
+   "Id": 385,
+   "RSID": "rs10030044",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 386,
+   "RSID": "rs17708472",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 387,
+   "RSID": "rs2884737",
+   "Chromosome": "16",
+   "Allele": "CC"
+ },
+ {
+   "Id": 388,
+   "RSID": "rs5443",
+   "Chromosome": "12",
+   "Allele": "TT"
+ },
+ {
+   "Id": 389,
+   "RSID": "rs2229944",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 390,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 391,
+   "RSID": "rs1042714",
+   "Chromosome": "5",
+   "Allele": "GG"
+ },
+ {
+   "Id": 392,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 393,
+   "RSID": "rs10008257",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 394,
+   "RSID": "rs2452600",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 395,
+   "RSID": "rs11212617",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 396,
+   "RSID": "rs2230345",
+   "Chromosome": "10",
+   "Allele": "AT + TT"
+ },
+ {
+   "Id": 397,
+   "RSID": "rs9282564",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 398,
+   "RSID": "rs1062613",
+   "Chromosome": "11",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 399,
+   "RSID": "rs1801028",
+   "Chromosome": "11",
+   "Allele": "CG"
+ },
+ {
+   "Id": 400,
+   "RSID": "rs1800042",
+   "Chromosome": "5",
+   "Allele": "CT"
+ },
+ {
+   "Id": 401,
+   "RSID": "rs1176744",
+   "Chromosome": "11",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 402,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 403,
+   "RSID": "rs211037",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 404,
+   "RSID": "rs1176744",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 405,
+   "RSID": "rs2031920",
+   "Chromosome": "10",
+   "Allele": "CC"
+ },
+ {
+   "Id": 406,
+   "RSID": "rs7643645",
+   "Chromosome": "3",
+   "Allele": "GG"
+ },
+ {
+   "Id": 407,
+   "RSID": "rs2276707",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 408,
+   "RSID": "rs2071197",
+   "Chromosome": "20",
+   "Allele": "A"
+ },
+ {
+   "Id": 409,
+   "RSID": "rs3814058",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 410,
+   "RSID": "rs6413432",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 411,
+   "RSID": "rs35599367",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 412,
+   "RSID": "rs1057910",
+   "Chromosome": "10",
+   "Allele": "CC"
+ },
+ {
+   "Id": 413,
+   "RSID": "rs2433320",
+   "Chromosome": "4",
+   "Allele": "GG"
+ },
+ {
+   "Id": 414,
+   "RSID": "rs340874",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 415,
+   "RSID": "rs7438135",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 416,
+   "RSID": "rs4680",
+   "Chromosome": "22",
+   "Allele": "AG"
+ },
+ {
+   "Id": 417,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "AG"
+ },
+ {
+   "Id": 418,
+   "RSID": "rs11572076",
+   "Chromosome": "10",
+   "Allele": "CC"
+ },
+ {
+   "Id": 419,
+   "RSID": "rs1062613",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 420,
+   "RSID": "rs1176722",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 421,
+   "RSID": "rs1176713",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 422,
+   "RSID": "rs1176746",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 423,
+   "RSID": "rs1065852",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 424,
+   "RSID": "rs2276305",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 425,
+   "RSID": "rs2276307",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 426,
+   "RSID": "rs472660",
+   "Chromosome": "7",
+   "Allele": "AA"
+ },
+ {
+   "Id": 427,
+   "RSID": "rs2056527",
+   "Chromosome": "3",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 428,
+   "RSID": "rs6318",
+   "Chromosome": "X",
+   "Allele": "C"
+ },
+ {
+   "Id": 429,
+   "RSID": "rs6318",
+   "Chromosome": "X",
+   "Allele": "G"
+ },
+ {
+   "Id": 430,
+   "RSID": "rs518147",
+   "Chromosome": "X",
+   "Allele": "C"
+ },
+ {
+   "Id": 431,
+   "RSID": "rs518147",
+   "Chromosome": "X",
+   "Allele": "G"
+ },
+ {
+   "Id": 432,
+   "RSID": "rs518147",
+   "Chromosome": "X",
+   "Allele": "CC + CG"
+ },
+ {
+   "Id": 433,
+   "RSID": "rs1695",
+   "Chromosome": "11",
+   "Allele": "AA"
+ },
+ {
+   "Id": 434,
+   "RSID": "rs1414334",
+   "Chromosome": "X",
+   "Allele": "G"
+ },
+ {
+   "Id": 435,
+   "RSID": "rs3813929",
+   "Chromosome": "X",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 436,
+   "RSID": "rs3813929",
+   "Chromosome": "X",
+   "Allele": "C"
+ },
+ {
+   "Id": 437,
+   "RSID": "rs3813929",
+   "Chromosome": "X",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 438,
+   "RSID": "rs3813929",
+   "Chromosome": "X",
+   "Allele": "TT"
+ },
+ {
+   "Id": 439,
+   "RSID": "rs9923231",
+   "Chromosome": "16",
+   "Allele": "CT"
+ },
+ {
+   "Id": 440,
+   "RSID": "rs9923231",
+   "Chromosome": "16",
+   "Allele": "CC"
+ },
+ {
+   "Id": 441,
+   "RSID": "rs61162043",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 442,
+   "RSID": "rs1800896",
+   "Chromosome": "1",
+   "Allele": "CT"
+ },
+ {
+   "Id": 443,
+   "RSID": "rs1057868",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 444,
+   "RSID": "rs2868177",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 445,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 446,
+   "RSID": "rs4646437",
+   "Chromosome": "7",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 447,
+   "RSID": "rs4646437",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 448,
+   "RSID": "rs10747673",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 449,
+   "RSID": "rs149711321",
+   "Chromosome": "22",
+   "Allele": "T"
+ },
+ {
+   "Id": 450,
+   "RSID": "rs6046",
+   "Chromosome": "13",
+   "Allele": "AA"
+ },
+ {
+   "Id": 451,
+   "RSID": "rs7270101",
+   "Chromosome": "20",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 452,
+   "RSID": "rs1127354",
+   "Chromosome": "20",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 453,
+   "RSID": "rs7270101",
+   "Chromosome": "20",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 454,
+   "RSID": "rs1057868",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 455,
+   "RSID": "rs1127354",
+   "Chromosome": "20",
+   "Allele": "AC"
+ },
+ {
+   "Id": 456,
+   "RSID": "rs7270101",
+   "Chromosome": "20",
+   "Allele": "AC"
+ },
+ {
+   "Id": 457,
+   "RSID": "rs25531",
+   "Chromosome": "17",
+   "Allele": "C"
+ },
+ {
+   "Id": 458,
+   "RSID": "rs3740066",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 459,
+   "RSID": "rs2476601",
+   "Chromosome": "1",
+   "Allele": "AA"
+ },
+ {
+   "Id": 460,
+   "RSID": "rs737865",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 461,
+   "RSID": "rs4646312",
+   "Chromosome": "22",
+   "Allele": "C"
+ },
+ {
+   "Id": 462,
+   "RSID": "rs6267",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 463,
+   "RSID": "rs165599",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 464,
+   "RSID": "rs2239393",
+   "Chromosome": "22",
+   "Allele": "A"
+ },
+ {
+   "Id": 465,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 466,
+   "RSID": "rs16965962",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 467,
+   "RSID": "rs116855232",
+   "Chromosome": "13",
+   "Allele": "T"
+ },
+ {
+   "Id": 468,
+   "RSID": "rs116855232",
+   "Chromosome": "13",
+   "Allele": "TT"
+ },
+ {
+   "Id": 469,
+   "RSID": "rs3815087",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 470,
+   "RSID": "rs116855232",
+   "Chromosome": "13",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 471,
+   "RSID": "rs2231142",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 472,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 473,
+   "RSID": "rs3130931",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 474,
+   "RSID": "rs3130501",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 475,
+   "RSID": "rs12143842",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 476,
+   "RSID": "rs2236225",
+   "Chromosome": "14",
+   "Allele": "AA"
+ },
+ {
+   "Id": 477,
+   "RSID": "rs200148",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 478,
+   "RSID": "rs11628713",
+   "Chromosome": "14",
+   "Allele": "T"
+ },
+ {
+   "Id": 479,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 480,
+   "RSID": "rs3213619",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 481,
+   "RSID": "rs2647087",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 482,
+   "RSID": "rs9940629",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 483,
+   "RSID": "rs12595985",
+   "Chromosome": "16",
+   "Allele": "AA"
+ },
+ {
+   "Id": 484,
+   "RSID": "rs3768142",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 485,
+   "RSID": "rs3176123",
+   "Chromosome": "20",
+   "Allele": "GG + GT"
+ },
+ {
+   "Id": 486,
+   "RSID": "rs1205",
+   "Chromosome": "1",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 487,
+   "RSID": "rs1045642",
+   "Chromosome": "7",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 488,
+   "RSID": "rs11045879",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 489,
+   "RSID": "rs10841753",
+   "Chromosome": "12",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 490,
+   "RSID": "rs324420",
+   "Chromosome": "1",
+   "Allele": "A"
+ },
+ {
+   "Id": 491,
+   "RSID": "rs6499640",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 492,
+   "RSID": "rs1121980",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 493,
+   "RSID": "rs1421085",
+   "Chromosome": "16",
+   "Allele": "C"
+ },
+ {
+   "Id": 494,
+   "RSID": "rs17143212",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 495,
+   "RSID": "rs1800497",
+   "Chromosome": "11",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 496,
+   "RSID": "rs2307441",
+   "Chromosome": "15",
+   "Allele": "C"
+ },
+ {
+   "Id": 497,
+   "RSID": "rs3087374",
+   "Chromosome": "15",
+   "Allele": "A"
+ },
+ {
+   "Id": 498,
+   "RSID": "rs1057868",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 499,
+   "RSID": "rs1057868",
+   "Chromosome": "7",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 500,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 501,
+   "RSID": "rs9332197",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 502,
+   "RSID": "rs7799039",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 503,
+   "RSID": "rs10244329",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 504,
+   "RSID": "rs12706832",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 505,
+   "RSID": "rs2280883",
+   "Chromosome": "X",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 506,
+   "RSID": "rs3761547",
+   "Chromosome": "X",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 507,
+   "RSID": "rs2032583",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 508,
+   "RSID": "rs2228075",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 509,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "GG"
+ },
+ {
+   "Id": 510,
+   "RSID": "rs2231135",
+   "Chromosome": "4",
+   "Allele": "AG"
+ },
+ {
+   "Id": 511,
+   "RSID": "rs1053129",
+   "Chromosome": "5",
+   "Allele": "CC"
+ },
+ {
+   "Id": 512,
+   "RSID": "rs1650723",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 513,
+   "RSID": "rs2235015",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 514,
+   "RSID": "rs2235067",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 515,
+   "RSID": "rs2740574",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 516,
+   "RSID": "rs3213619",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 517,
+   "RSID": "rs10140457",
+   "Chromosome": "14",
+   "Allele": "CC"
+ },
+ {
+   "Id": 518,
+   "RSID": "rs352887",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 519,
+   "RSID": "rs17633730",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 520,
+   "RSID": "rs453359",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 521,
+   "RSID": "rs2901783",
+   "Chromosome": "10",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 522,
+   "RSID": "rs3814637",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 523,
+   "RSID": "rs8178607",
+   "Chromosome": "3",
+   "Allele": "AA"
+ },
+ {
+   "Id": 524,
+   "RSID": "rs2071045",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 525,
+   "RSID": "rs4870061",
+   "Chromosome": "6",
+   "Allele": "TT"
+ },
+ {
+   "Id": 526,
+   "RSID": "rs9322335",
+   "Chromosome": "6",
+   "Allele": "TT"
+ },
+ {
+   "Id": 527,
+   "RSID": "rs3813867",
+   "Chromosome": "10",
+   "Allele": "G"
+ },
+ {
+   "Id": 528,
+   "RSID": "rs4148396",
+   "Chromosome": "10",
+   "Allele": "CC"
+ },
+ {
+   "Id": 529,
+   "RSID": "rs11122576",
+   "Chromosome": "1",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 530,
+   "RSID": "rs10106",
+   "Chromosome": "9",
+   "Allele": "TT"
+ },
+ {
+   "Id": 531,
+   "RSID": "rs17223074",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 532,
+   "RSID": "rs7799039",
+   "Chromosome": "7",
+   "Allele": "GG"
+ },
+ {
+   "Id": 533,
+   "RSID": "rs4244285",
+   "Chromosome": "10",
+   "Allele": "AG"
+ },
+ {
+   "Id": 534,
+   "RSID": "rs2241529",
+   "Chromosome": "10",
+   "Allele": "AA"
+ },
+ {
+   "Id": 535,
+   "RSID": "rs3869066",
+   "Chromosome": "6",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 536,
+   "RSID": "rs116855232",
+   "Chromosome": "13",
+   "Allele": "C"
+ },
+ {
+   "Id": 537,
+   "RSID": "rs79206939",
+   "Chromosome": "16",
+   "Allele": "A"
+ },
+ {
+   "Id": 538,
+   "RSID": "rs16952570",
+   "Chromosome": "16",
+   "Allele": "C"
+ },
+ {
+   "Id": 539,
+   "RSID": "rs2834826",
+   "Chromosome": "21",
+   "Allele": "T"
+ },
+ {
+   "Id": 540,
+   "RSID": "rs7270101",
+   "Chromosome": "20",
+   "Allele": "CC"
+ },
+ {
+   "Id": 541,
+   "RSID": "rs4407290",
+   "Chromosome": "2",
+   "Allele": "AG"
+ },
+ {
+   "Id": 542,
+   "RSID": "rs6296",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 543,
+   "RSID": "rs10824095",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 544,
+   "RSID": "rs11706052",
+   "Chromosome": "3",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 545,
+   "RSID": "rs10255565",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 546,
+   "RSID": "rs8187710",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 547,
+   "RSID": "rs6601319",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 548,
+   "RSID": "rs1116816",
+   "Chromosome": "8",
+   "Allele": "C"
+ },
+ {
+   "Id": 549,
+   "RSID": "rs10423928",
+   "Chromosome": "19",
+   "Allele": "AA + AT"
+ },
+ {
+   "Id": 550,
+   "RSID": "rs11195419",
+   "Chromosome": "10",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 551,
+   "RSID": "rs12725107",
+   "Chromosome": "1",
+   "Allele": "A"
+ },
+ {
+   "Id": 552,
+   "RSID": "rs10280623",
+   "Chromosome": "7",
+   "Allele": "TT"
+ },
+ {
+   "Id": 553,
+   "RSID": "rs868755",
+   "Chromosome": "7",
+   "Allele": "TT"
+ },
+ {
+   "Id": 554,
+   "RSID": "rs7102569",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 555,
+   "RSID": "rs10760502",
+   "Chromosome": "9",
+   "Allele": "AA"
+ },
+ {
+   "Id": 556,
+   "RSID": "rs1079199",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 557,
+   "RSID": "rs8092360",
+   "Chromosome": "18",
+   "Allele": "C"
+ },
+ {
+   "Id": 558,
+   "RSID": "rs2791188",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 559,
+   "RSID": "rs271828",
+   "Chromosome": "19",
+   "Allele": "C"
+ },
+ {
+   "Id": 560,
+   "RSID": "rs10971182",
+   "Chromosome": "9",
+   "Allele": "G"
+ },
+ {
+   "Id": 561,
+   "RSID": "rs7927570",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 562,
+   "RSID": "rs11654492",
+   "Chromosome": "17",
+   "Allele": "A"
+ },
+ {
+   "Id": 563,
+   "RSID": "rs7242734",
+   "Chromosome": "18",
+   "Allele": "G"
+ },
+ {
+   "Id": 564,
+   "RSID": "rs1271562",
+   "Chromosome": "14",
+   "Allele": "A"
+ },
+ {
+   "Id": 565,
+   "RSID": "rs4379440",
+   "Chromosome": "8",
+   "Allele": "T"
+ },
+ {
+   "Id": 566,
+   "RSID": "rs4767452",
+   "Chromosome": "12",
+   "Allele": "C"
+ },
+ {
+   "Id": 567,
+   "RSID": "rs12995526",
+   "Chromosome": "2",
+   "Allele": "CC"
+ },
+ {
+   "Id": 568,
+   "RSID": "rs1436260",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 569,
+   "RSID": "rs762551",
+   "Chromosome": "15",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 570,
+   "RSID": "rs11676382",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 571,
+   "RSID": "rs1800566",
+   "Chromosome": "16",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 572,
+   "RSID": "rs699664",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 573,
+   "RSID": "rs55754655",
+   "Chromosome": "2",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 574,
+   "RSID": "rs2372536",
+   "Chromosome": "2",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 575,
+   "RSID": "rs3821353",
+   "Chromosome": "2",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 576,
+   "RSID": "rs160919",
+   "Chromosome": "5",
+   "Allele": "A"
+ },
+ {
+   "Id": 577,
+   "RSID": "rs502114",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 578,
+   "RSID": "rs6461639",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 579,
+   "RSID": "rs6461639",
+   "Chromosome": "7",
+   "Allele": "TT"
+ },
+ {
+   "Id": 580,
+   "RSID": "rs3873352",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 581,
+   "RSID": "rs2523864",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 582,
+   "RSID": "rs11649514",
+   "Chromosome": "16",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 583,
+   "RSID": "rs5760410",
+   "Chromosome": "22",
+   "Allele": "GG"
+ },
+ {
+   "Id": 584,
+   "RSID": "rs2298383",
+   "Chromosome": "22",
+   "Allele": "GG"
+ },
+ {
+   "Id": 585,
+   "RSID": "rs2294021",
+   "Chromosome": "X",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 586,
+   "RSID": "rs3761548",
+   "Chromosome": "X",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 587,
+   "RSID": "rs3761549",
+   "Chromosome": "X",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 588,
+   "RSID": "rs2232365",
+   "Chromosome": "X",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 589,
+   "RSID": "rs2669429",
+   "Chromosome": "8",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 590,
+   "RSID": "rs2242480",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 591,
+   "RSID": "rs114577328",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 592,
+   "RSID": "rs6318",
+   "Chromosome": "X",
+   "Allele": "CG"
+ },
+ {
+   "Id": 593,
+   "RSID": "rs3788200",
+   "Chromosome": "21",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 594,
+   "RSID": "rs6755571",
+   "Chromosome": "2",
+   "Allele": "AC"
+ },
+ {
+   "Id": 595,
+   "RSID": "rs2011425",
+   "Chromosome": "2",
+   "Allele": "GT"
+ },
+ {
+   "Id": 596,
+   "RSID": "rs2514036",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 597,
+   "RSID": "rs7668258",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 598,
+   "RSID": "rs3892097",
+   "Chromosome": "22",
+   "Allele": "CC"
+ },
+ {
+   "Id": 599,
+   "RSID": "rs117412760",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 600,
+   "RSID": "rs11124945",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 601,
+   "RSID": "rs17036170",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 602,
+   "RSID": "rs2298383",
+   "Chromosome": "22",
+   "Allele": "TT"
+ },
+ {
+   "Id": 603,
+   "RSID": "rs11125883",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 604,
+   "RSID": "rs1800629",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 605,
+   "RSID": "rs4720833",
+   "Chromosome": "7",
+   "Allele": "A"
+ },
+ {
+   "Id": 606,
+   "RSID": "rs4149014",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 607,
+   "RSID": "rs1053004",
+   "Chromosome": "17",
+   "Allele": "G"
+ },
+ {
+   "Id": 608,
+   "RSID": "rs11080344",
+   "Chromosome": "17",
+   "Allele": "T"
+ },
+ {
+   "Id": 609,
+   "RSID": "rs2070401",
+   "Chromosome": "21",
+   "Allele": "G"
+ },
+ {
+   "Id": 610,
+   "RSID": "rs2031920",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 611,
+   "RSID": "rs1968753",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 612,
+   "RSID": "rs6318",
+   "Chromosome": "X",
+   "Allele": "GG"
+ },
+ {
+   "Id": 613,
+   "RSID": "rs1131596",
+   "Chromosome": "21",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 614,
+   "RSID": "rs1128503",
+   "Chromosome": "7",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 615,
+   "RSID": "rs2231137",
+   "Chromosome": "4",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 616,
+   "RSID": "rs6311",
+   "Chromosome": "13",
+   "Allele": "CC"
+ },
+ {
+   "Id": 617,
+   "RSID": "rs2838958",
+   "Chromosome": "21",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 618,
+   "RSID": "rs3812265",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 619,
+   "RSID": "rs10505168",
+   "Chromosome": "8",
+   "Allele": "CC"
+ },
+ {
+   "Id": 620,
+   "RSID": "rs2114358",
+   "Chromosome": "8",
+   "Allele": "GG"
+ },
+ {
+   "Id": 621,
+   "RSID": "rs10106",
+   "Chromosome": "9",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 622,
+   "RSID": "rs901865",
+   "Chromosome": "3",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 623,
+   "RSID": "rs6277",
+   "Chromosome": "11",
+   "Allele": "GG"
+ },
+ {
+   "Id": 624,
+   "RSID": "rs1799978",
+   "Chromosome": "11",
+   "Allele": "CT"
+ },
+ {
+   "Id": 625,
+   "RSID": "rs9659997",
+   "Chromosome": "1",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 626,
+   "RSID": "rs2229109",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 627,
+   "RSID": "rs442767",
+   "Chromosome": "5",
+   "Allele": "GG"
+ },
+ {
+   "Id": 628,
+   "RSID": "rs890293",
+   "Chromosome": "1",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 629,
+   "RSID": "rs1650697",
+   "Chromosome": "5",
+   "Allele": "AA"
+ },
+ {
+   "Id": 630,
+   "RSID": "rs2032582",
+   "Chromosome": "7",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 631,
+   "RSID": "rs35599367",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 632,
+   "RSID": "rs1800566",
+   "Chromosome": "16",
+   "Allele": "G"
+ },
+ {
+   "Id": 633,
+   "RSID": "rs186364861",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 634,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "TT"
+ },
+ {
+   "Id": 635,
+   "RSID": "rs12714145",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 636,
+   "RSID": "rs6046",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 637,
+   "RSID": "rs1051740",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 638,
+   "RSID": "rs1043550",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 639,
+   "RSID": "rs4253728",
+   "Chromosome": "22",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 640,
+   "RSID": "rs2228570",
+   "Chromosome": "12",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 641,
+   "RSID": "rs3732361",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 642,
+   "RSID": "rs3099844",
+   "Chromosome": "6",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 643,
+   "RSID": "rs3815087",
+   "Chromosome": "6",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 644,
+   "RSID": "rs3131003",
+   "Chromosome": "6",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 645,
+   "RSID": "rs367398",
+   "Chromosome": "6",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 646,
+   "RSID": "rs274558",
+   "Chromosome": "5",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 647,
+   "RSID": "rs200245496",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 648,
+   "RSID": "rs10258429",
+   "Chromosome": "7",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 649,
+   "RSID": "rs2235040",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 650,
+   "RSID": "rs6935207",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 651,
+   "RSID": "rs377474103",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 652,
+   "RSID": "rs1800812",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 653,
+   "RSID": "rs1800813",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 654,
+   "RSID": "rs2228230",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 655,
+   "RSID": "rs2276299",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 656,
+   "RSID": "rs887829",
+   "Chromosome": "2",
+   "Allele": "CT"
+ },
+ {
+   "Id": 657,
+   "RSID": "rs3786362",
+   "Chromosome": "18",
+   "Allele": "A"
+ },
+ {
+   "Id": 658,
+   "RSID": "rs1976391",
+   "Chromosome": "2",
+   "Allele": "AG"
+ },
+ {
+   "Id": 659,
+   "RSID": "rs9263726",
+   "Chromosome": "6",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 660,
+   "RSID": "rs1594",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 661,
+   "RSID": "rs2734583",
+   "Chromosome": "6",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 662,
+   "RSID": "rs16944",
+   "Chromosome": "2",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 663,
+   "RSID": "rs11969064",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 664,
+   "RSID": "rs2631372",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 665,
+   "RSID": "rs200034939",
+   "Chromosome": "3",
+   "Allele": "A"
+ },
+ {
+   "Id": 666,
+   "RSID": "rs762551",
+   "Chromosome": "15",
+   "Allele": "C"
+ },
+ {
+   "Id": 667,
+   "RSID": "rs2631370",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 668,
+   "RSID": "rs2231137",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 669,
+   "RSID": "rs2229109",
+   "Chromosome": "7",
+   "Allele": "CT"
+ },
+ {
+   "Id": 670,
+   "RSID": "rs9282564",
+   "Chromosome": "7",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 671,
+   "RSID": "rs28656907",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 672,
+   "RSID": "rs2276707",
+   "Chromosome": "3",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 673,
+   "RSID": "rs2472677",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 674,
+   "RSID": "rs4532",
+   "Chromosome": "5",
+   "Allele": "CC"
+ },
+ {
+   "Id": 675,
+   "RSID": "rs6295",
+   "Chromosome": "5",
+   "Allele": "GG"
+ },
+ {
+   "Id": 676,
+   "RSID": "rs6295",
+   "Chromosome": "5",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 677,
+   "RSID": "rs199472944",
+   "Chromosome": "7",
+   "Allele": "AG"
+ },
+ {
+   "Id": 678,
+   "RSID": "rs2234916",
+   "Chromosome": "21",
+   "Allele": "G"
+ },
+ {
+   "Id": 679,
+   "RSID": "rs866236",
+   "Chromosome": "6",
+   "Allele": "AA"
+ },
+ {
+   "Id": 680,
+   "RSID": "rs408626",
+   "Chromosome": "5",
+   "Allele": "CC"
+ },
+ {
+   "Id": 681,
+   "RSID": "rs6313",
+   "Chromosome": "13",
+   "Allele": "G"
+ },
+ {
+   "Id": 682,
+   "RSID": "rs408626",
+   "Chromosome": "5",
+   "Allele": "TT"
+ },
+ {
+   "Id": 683,
+   "RSID": "rs442767",
+   "Chromosome": "5",
+   "Allele": "GT"
+ },
+ {
+   "Id": 684,
+   "RSID": "rs2815752",
+   "Chromosome": "1",
+   "Allele": "A"
+ },
+ {
+   "Id": 685,
+   "RSID": "rs868755",
+   "Chromosome": "7",
+   "Allele": "T"
+ },
+ {
+   "Id": 686,
+   "RSID": "rs2010963",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 687,
+   "RSID": "rs7903146",
+   "Chromosome": "10",
+   "Allele": "CT"
+ },
+ {
+   "Id": 688,
+   "RSID": "rs290487",
+   "Chromosome": "10",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 689,
+   "RSID": "rs11196205",
+   "Chromosome": "10",
+   "Allele": "CG"
+ },
+ {
+   "Id": 690,
+   "RSID": "rs7903146",
+   "Chromosome": "10",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 691,
+   "RSID": "rs12255372",
+   "Chromosome": "10",
+   "Allele": "G"
+ },
+ {
+   "Id": 692,
+   "RSID": "rs5219",
+   "Chromosome": "11",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 693,
+   "RSID": "rs187926838",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 694,
+   "RSID": "rs305968",
+   "Chromosome": "19",
+   "Allele": "AA"
+ },
+ {
+   "Id": 695,
+   "RSID": "rs1933437",
+   "Chromosome": "13",
+   "Allele": "G"
+ },
+ {
+   "Id": 696,
+   "RSID": "rs6877011",
+   "Chromosome": "5",
+   "Allele": "G"
+ },
+ {
+   "Id": 697,
+   "RSID": "rs2514218",
+   "Chromosome": "11",
+   "Allele": "CC"
+ },
+ {
+   "Id": 698,
+   "RSID": "rs1800810",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 699,
+   "RSID": "rs35410204",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 700,
+   "RSID": "rs281018",
+   "Chromosome": "18",
+   "Allele": "C"
+ },
+ {
+   "Id": 701,
+   "RSID": "rs192543598",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 702,
+   "RSID": "rs7135770",
+   "Chromosome": "12",
+   "Allele": "C"
+ },
+ {
+   "Id": 703,
+   "RSID": "rs868589",
+   "Chromosome": "10",
+   "Allele": "T"
+ },
+ {
+   "Id": 704,
+   "RSID": "rs6894567",
+   "Chromosome": "5",
+   "Allele": "A"
+ },
+ {
+   "Id": 705,
+   "RSID": "rs6475859",
+   "Chromosome": "9",
+   "Allele": "A"
+ },
+ {
+   "Id": 706,
+   "RSID": "rs35597368",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 707,
+   "RSID": "rs2631367",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 708,
+   "RSID": "rs7870226",
+   "Chromosome": "9",
+   "Allele": "G"
+ },
+ {
+   "Id": 709,
+   "RSID": "rs10907653",
+   "Chromosome": "9",
+   "Allele": "T"
+ },
+ {
+   "Id": 710,
+   "RSID": "rs2305948",
+   "Chromosome": "4",
+   "Allele": "CT"
+ },
+ {
+   "Id": 711,
+   "RSID": "rs1048943",
+   "Chromosome": "15",
+   "Allele": "C"
+ },
+ {
+   "Id": 712,
+   "RSID": "rs1202283",
+   "Chromosome": "7",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 713,
+   "RSID": "rs11249454",
+   "Chromosome": "4",
+   "Allele": "CC"
+ },
+ {
+   "Id": 714,
+   "RSID": "rs10517",
+   "Chromosome": "16",
+   "Allele": "GG"
+ },
+ {
+   "Id": 715,
+   "RSID": "rs2273697",
+   "Chromosome": "10",
+   "Allele": "GG"
+ },
+ {
+   "Id": 716,
+   "RSID": "rs9787901",
+   "Chromosome": "11",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 717,
+   "RSID": "rs2245360",
+   "Chromosome": "12",
+   "Allele": "AA"
+ },
+ {
+   "Id": 718,
+   "RSID": "rs1913896",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 719,
+   "RSID": "rs655130",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 720,
+   "RSID": "rs17120361",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 721,
+   "RSID": "rs12501068",
+   "Chromosome": "4",
+   "Allele": "G"
+ },
+ {
+   "Id": 722,
+   "RSID": "rs306468",
+   "Chromosome": "19",
+   "Allele": "A"
+ },
+ {
+   "Id": 723,
+   "RSID": "rs11709385",
+   "Chromosome": "3",
+   "Allele": "C"
+ },
+ {
+   "Id": 724,
+   "RSID": "rs3934874",
+   "Chromosome": "8",
+   "Allele": "G"
+ },
+ {
+   "Id": 725,
+   "RSID": "rs11157718",
+   "Chromosome": "14",
+   "Allele": "T"
+ },
+ {
+   "Id": 726,
+   "RSID": "rs3172494",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 727,
+   "RSID": "rs1884613",
+   "Chromosome": "20",
+   "Allele": "GG"
+ },
+ {
+   "Id": 728,
+   "RSID": "rs429358",
+   "Chromosome": "19",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 729,
+   "RSID": "rs6130615",
+   "Chromosome": "20",
+   "Allele": "CC"
+ },
+ {
+   "Id": 730,
+   "RSID": "rs429358",
+   "Chromosome": "19",
+   "Allele": "TT"
+ },
+ {
+   "Id": 731,
+   "RSID": "rs2359612",
+   "Chromosome": "16",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 732,
+   "RSID": "rs2884737",
+   "Chromosome": "16",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 733,
+   "RSID": "rs8050894",
+   "Chromosome": "16",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 734,
+   "RSID": "rs4648287",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 735,
+   "RSID": "rs4818",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 736,
+   "RSID": "rs6269",
+   "Chromosome": "22",
+   "Allele": "G"
+ },
+ {
+   "Id": 737,
+   "RSID": "rs10494366",
+   "Chromosome": "1",
+   "Allele": "GG + GT"
+ },
+ {
+   "Id": 738,
+   "RSID": "rs10157410",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 739,
+   "RSID": "rs10789038",
+   "Chromosome": "1",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 740,
+   "RSID": "rs12255372",
+   "Chromosome": "10",
+   "Allele": "GT"
+ },
+ {
+   "Id": 741,
+   "RSID": "rs1050152",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 742,
+   "RSID": "rs1105525",
+   "Chromosome": "5",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 743,
+   "RSID": "rs1643657",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 744,
+   "RSID": "rs1801394",
+   "Chromosome": "5",
+   "Allele": "AG"
+ },
+ {
+   "Id": 745,
+   "RSID": "rs11214763",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 746,
+   "RSID": "rs10248420",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 747,
+   "RSID": "rs10267099",
+   "Chromosome": "7",
+   "Allele": "G"
+ },
+ {
+   "Id": 748,
+   "RSID": "rs11983225",
+   "Chromosome": "7",
+   "Allele": "C"
+ },
+ {
+   "Id": 749,
+   "RSID": "rs693",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 750,
+   "RSID": "rs7311358",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 751,
+   "RSID": "rs4646425",
+   "Chromosome": "15",
+   "Allele": "CC"
+ },
+ {
+   "Id": 752,
+   "RSID": "rs1799971",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 753,
+   "RSID": "rs708272",
+   "Chromosome": "16",
+   "Allele": "GG"
+ },
+ {
+   "Id": 754,
+   "RSID": "rs708272",
+   "Chromosome": "16",
+   "Allele": "AG"
+ },
+ {
+   "Id": 755,
+   "RSID": "rs708272",
+   "Chromosome": "16",
+   "Allele": "AA"
+ },
+ {
+   "Id": 756,
+   "RSID": "rs7499",
+   "Chromosome": "21",
+   "Allele": "G"
+ },
+ {
+   "Id": 757,
+   "RSID": "rs2838956",
+   "Chromosome": "21",
+   "Allele": "GG"
+ },
+ {
+   "Id": 758,
+   "RSID": "rs1042034",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 759,
+   "RSID": "rs429358",
+   "Chromosome": "19",
+   "Allele": "C"
+ },
+ {
+   "Id": 760,
+   "RSID": "rs405509",
+   "Chromosome": "19",
+   "Allele": "G"
+ },
+ {
+   "Id": 761,
+   "RSID": "rs439401",
+   "Chromosome": "19",
+   "Allele": "T"
+ },
+ {
+   "Id": 762,
+   "RSID": "rs1367117",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 763,
+   "RSID": "rs6280",
+   "Chromosome": "3",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 764,
+   "RSID": "rs2279020",
+   "Chromosome": "5",
+   "Allele": "A"
+ },
+ {
+   "Id": 765,
+   "RSID": "rs3219151",
+   "Chromosome": "5",
+   "Allele": "C"
+ },
+ {
+   "Id": 766,
+   "RSID": "rs12054895",
+   "Chromosome": "5",
+   "Allele": "T"
+ },
+ {
+   "Id": 767,
+   "RSID": "rs4880",
+   "Chromosome": "6",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 768,
+   "RSID": "rs4880",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 769,
+   "RSID": "rs578427",
+   "Chromosome": "6",
+   "Allele": "TT"
+ },
+ {
+   "Id": 770,
+   "RSID": "rs622342",
+   "Chromosome": "6",
+   "Allele": "AA"
+ },
+ {
+   "Id": 771,
+   "RSID": "rs628031",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 772,
+   "RSID": "rs622342",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 773,
+   "RSID": "rs683369",
+   "Chromosome": "6",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 774,
+   "RSID": "rs628031",
+   "Chromosome": "6",
+   "Allele": "GG"
+ },
+ {
+   "Id": 775,
+   "RSID": "rs683369",
+   "Chromosome": "6",
+   "Allele": "CC"
+ },
+ {
+   "Id": 776,
+   "RSID": "rs683369",
+   "Chromosome": "6",
+   "Allele": "G"
+ },
+ {
+   "Id": 777,
+   "RSID": "rs3832043",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 778,
+   "RSID": "rs25648",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 779,
+   "RSID": "rs316019",
+   "Chromosome": "6",
+   "Allele": "AC"
+ },
+ {
+   "Id": 780,
+   "RSID": "rs699947",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 781,
+   "RSID": "rs747199",
+   "Chromosome": "6",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 782,
+   "RSID": "rs750332",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 783,
+   "RSID": "rs761142",
+   "Chromosome": "6",
+   "Allele": "AA"
+ },
+ {
+   "Id": 784,
+   "RSID": "rs761142",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 785,
+   "RSID": "rs3812718",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 786,
+   "RSID": "rs3812718",
+   "Chromosome": "2",
+   "Allele": "TT"
+ },
+ {
+   "Id": 787,
+   "RSID": "rs3812718",
+   "Chromosome": "2",
+   "Allele": "CC"
+ },
+ {
+   "Id": 788,
+   "RSID": "rs3821353",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 789,
+   "RSID": "rs4673993",
+   "Chromosome": "2",
+   "Allele": "C"
+ },
+ {
+   "Id": 790,
+   "RSID": "rs4675690",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 791,
+   "RSID": "rs5030952",
+   "Chromosome": "2",
+   "Allele": "CT"
+ },
+ {
+   "Id": 792,
+   "RSID": "rs6714486",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 793,
+   "RSID": "rs6721961",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 794,
+   "RSID": "rs7563206",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 795,
+   "RSID": "rs7563206",
+   "Chromosome": "2",
+   "Allele": "CC"
+ },
+ {
+   "Id": 796,
+   "RSID": "rs7569963",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 797,
+   "RSID": "rs4291",
+   "Chromosome": "17",
+   "Allele": "AA + AT"
+ },
+ {
+   "Id": 798,
+   "RSID": "rs4291",
+   "Chromosome": "17",
+   "Allele": "AA"
+ },
+ {
+   "Id": 799,
+   "RSID": "rs4343",
+   "Chromosome": "17",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 800,
+   "RSID": "rs25531",
+   "Chromosome": "17",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 801,
+   "RSID": "rs25531",
+   "Chromosome": "17",
+   "Allele": "TT"
+ },
+ {
+   "Id": 802,
+   "RSID": "rs1042173",
+   "Chromosome": "17",
+   "Allele": "AA"
+ },
+ {
+   "Id": 803,
+   "RSID": "rs1053005",
+   "Chromosome": "17",
+   "Allele": "C"
+ },
+ {
+   "Id": 804,
+   "RSID": "rs1800012",
+   "Chromosome": "17",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 805,
+   "RSID": "rs1979277",
+   "Chromosome": "17",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 806,
+   "RSID": "rs1979277",
+   "Chromosome": "17",
+   "Allele": "AG"
+ },
+ {
+   "Id": 807,
+   "RSID": "rs2252281",
+   "Chromosome": "17",
+   "Allele": "CC"
+ },
+ {
+   "Id": 808,
+   "RSID": "rs2289669",
+   "Chromosome": "17",
+   "Allele": "A"
+ },
+ {
+   "Id": 809,
+   "RSID": "rs2289669",
+   "Chromosome": "17",
+   "Allele": "AA"
+ },
+ {
+   "Id": 810,
+   "RSID": "rs2734842",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 811,
+   "RSID": "rs7317112",
+   "Chromosome": "13",
+   "Allele": "AA"
+ },
+ {
+   "Id": 812,
+   "RSID": "rs7993418",
+   "Chromosome": "13",
+   "Allele": "G"
+ },
+ {
+   "Id": 813,
+   "RSID": "rs3758987",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 814,
+   "RSID": "rs10789970",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 815,
+   "RSID": "rs11039149",
+   "Chromosome": "11",
+   "Allele": "G"
+ },
+ {
+   "Id": 816,
+   "RSID": "rs7997012",
+   "Chromosome": "13",
+   "Allele": "A"
+ },
+ {
+   "Id": 817,
+   "RSID": "rs11603334",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 818,
+   "RSID": "rs5443",
+   "Chromosome": "12",
+   "Allele": "T"
+ },
+ {
+   "Id": 819,
+   "RSID": "rs731236",
+   "Chromosome": "12",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 820,
+   "RSID": "rs784888",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 821,
+   "RSID": "rs784892",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 822,
+   "RSID": "rs9895420",
+   "Chromosome": "17",
+   "Allele": "AA + AT"
+ },
+ {
+   "Id": 823,
+   "RSID": "rs9904341",
+   "Chromosome": "17",
+   "Allele": "GG"
+ },
+ {
+   "Id": 824,
+   "RSID": "rs11080344",
+   "Chromosome": "17",
+   "Allele": "CC"
+ },
+ {
+   "Id": 825,
+   "RSID": "rs12946454",
+   "Chromosome": "17",
+   "Allele": "T"
+ },
+ {
+   "Id": 826,
+   "RSID": "rs2717162",
+   "Chromosome": "18",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 827,
+   "RSID": "rs34834489",
+   "Chromosome": "17",
+   "Allele": "AA"
+ },
+ {
+   "Id": 828,
+   "RSID": "rs489693",
+   "Chromosome": "18",
+   "Allele": "A"
+ },
+ {
+   "Id": 829,
+   "RSID": "rs1123617",
+   "Chromosome": "18",
+   "Allele": "AA"
+ },
+ {
+   "Id": 830,
+   "RSID": "rs12995526",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 831,
+   "RSID": "rs3745009",
+   "Chromosome": "18",
+   "Allele": "AA"
+ },
+ {
+   "Id": 832,
+   "RSID": "rs4149601",
+   "Chromosome": "18",
+   "Allele": "A"
+ },
+ {
+   "Id": 833,
+   "RSID": "rs8087522",
+   "Chromosome": "18",
+   "Allele": "G"
+ },
+ {
+   "Id": 834,
+   "RSID": "rs8093815",
+   "Chromosome": "18",
+   "Allele": "A"
+ },
+ {
+   "Id": 835,
+   "RSID": "rs11872992",
+   "Chromosome": "18",
+   "Allele": "G"
+ },
+ {
+   "Id": 836,
+   "RSID": "rs17183814",
+   "Chromosome": "2",
+   "Allele": "A"
+ },
+ {
+   "Id": 837,
+   "RSID": "rs10929302",
+   "Chromosome": "2",
+   "Allele": "AG"
+ },
+ {
+   "Id": 838,
+   "RSID": "rs11125883",
+   "Chromosome": "2",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 839,
+   "RSID": "rs11676382",
+   "Chromosome": "2",
+   "Allele": "CG + GG"
+ },
+ {
+   "Id": 840,
+   "RSID": "rs11692021",
+   "Chromosome": "2",
+   "Allele": "CC"
+ },
+ {
+   "Id": 841,
+   "RSID": "rs13432159",
+   "Chromosome": "2",
+   "Allele": "G"
+ },
+ {
+   "Id": 842,
+   "RSID": "rs16853834",
+   "Chromosome": "2",
+   "Allele": "T"
+ },
+ {
+   "Id": 843,
+   "RSID": "rs1870377",
+   "Chromosome": "4",
+   "Allele": "T"
+ },
+ {
+   "Id": 844,
+   "RSID": "rs1902023",
+   "Chromosome": "4",
+   "Allele": "AA"
+ },
+ {
+   "Id": 845,
+   "RSID": "rs6265",
+   "Chromosome": "11",
+   "Allele": "C"
+ },
+ {
+   "Id": 846,
+   "RSID": "rs6265",
+   "Chromosome": "11",
+   "Allele": "TT"
+ },
+ {
+   "Id": 847,
+   "RSID": "rs1801058",
+   "Chromosome": "4",
+   "Allele": "TT"
+ },
+ {
+   "Id": 848,
+   "RSID": "rs6265",
+   "Chromosome": "11",
+   "Allele": "CT + TT"
+ },
+ {
+   "Id": 849,
+   "RSID": "rs1024323",
+   "Chromosome": "4",
+   "Allele": "TT"
+ },
+ {
+   "Id": 850,
+   "RSID": "rs806368",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 851,
+   "RSID": "rs806377",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 852,
+   "RSID": "rs806378",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 853,
+   "RSID": "rs833061",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 854,
+   "RSID": "rs1043620",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 855,
+   "RSID": "rs1049353",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 856,
+   "RSID": "rs1360780",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 857,
+   "RSID": "rs1142345",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 858,
+   "RSID": "rs1142345",
+   "Chromosome": "6",
+   "Allele": "CT"
+ },
+ {
+   "Id": 859,
+   "RSID": "rs1570360",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 860,
+   "RSID": "rs2279238",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 861,
+   "RSID": "rs2283265",
+   "Chromosome": "11",
+   "Allele": "AA + AC"
+ },
+ {
+   "Id": 862,
+   "RSID": "rs2440390",
+   "Chromosome": "11",
+   "Allele": "T"
+ },
+ {
+   "Id": 863,
+   "RSID": "rs2734841",
+   "Chromosome": "11",
+   "Allele": "A"
+ },
+ {
+   "Id": 864,
+   "RSID": "rs1800460",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 865,
+   "RSID": "rs1800629",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 866,
+   "RSID": "rs2074087",
+   "Chromosome": "16",
+   "Allele": "CC + CG"
+ },
+ {
+   "Id": 867,
+   "RSID": "rs17602729",
+   "Chromosome": "1",
+   "Allele": "AG"
+ },
+ {
+   "Id": 868,
+   "RSID": "rs4149056",
+   "Chromosome": "12",
+   "Allele": "CT"
+ },
+ {
+   "Id": 869,
+   "RSID": "rs1051266",
+   "Chromosome": "21",
+   "Allele": "CC"
+ },
+ {
+   "Id": 870,
+   "RSID": "rs1051266",
+   "Chromosome": "21",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 871,
+   "RSID": "rs717620",
+   "Chromosome": "10",
+   "Allele": "TT"
+ },
+ {
+   "Id": 872,
+   "RSID": "rs717620",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 873,
+   "RSID": "rs1051375",
+   "Chromosome": "12",
+   "Allele": "AA"
+ },
+ {
+   "Id": 874,
+   "RSID": "rs1051375",
+   "Chromosome": "12",
+   "Allele": "AG"
+ },
+ {
+   "Id": 875,
+   "RSID": "rs1051375",
+   "Chromosome": "12",
+   "Allele": "GG"
+ },
+ {
+   "Id": 876,
+   "RSID": "rs915120",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 877,
+   "RSID": "rs1006737",
+   "Chromosome": "12",
+   "Allele": "A"
+ },
+ {
+   "Id": 878,
+   "RSID": "rs1806201",
+   "Chromosome": "12",
+   "Allele": "GG"
+ },
+ {
+   "Id": 879,
+   "RSID": "rs2306283",
+   "Chromosome": "12",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 880,
+   "RSID": "rs2683511",
+   "Chromosome": "12",
+   "Allele": "C"
+ },
+ {
+   "Id": 881,
+   "RSID": "rs3764043",
+   "Chromosome": "12",
+   "Allele": "CC"
+ },
+ {
+   "Id": 882,
+   "RSID": "rs4149015",
+   "Chromosome": "12",
+   "Allele": "AG"
+ },
+ {
+   "Id": 883,
+   "RSID": "rs4149015",
+   "Chromosome": "12",
+   "Allele": "A"
+ },
+ {
+   "Id": 884,
+   "RSID": "rs4149117",
+   "Chromosome": "12",
+   "Allele": "GG"
+ },
+ {
+   "Id": 885,
+   "RSID": "rs1042580",
+   "Chromosome": "20",
+   "Allele": "CC + CT"
+ },
+ {
+   "Id": 886,
+   "RSID": "rs7973796",
+   "Chromosome": "12",
+   "Allele": "G"
+ },
+ {
+   "Id": 887,
+   "RSID": "rs1127354",
+   "Chromosome": "20",
+   "Allele": "C"
+ },
+ {
+   "Id": 888,
+   "RSID": "rs1127354",
+   "Chromosome": "20",
+   "Allele": "AC + CC"
+ },
+ {
+   "Id": 889,
+   "RSID": "rs2071197",
+   "Chromosome": "20",
+   "Allele": "GG"
+ },
+ {
+   "Id": 890,
+   "RSID": "rs7499",
+   "Chromosome": "21",
+   "Allele": "A"
+ },
+ {
+   "Id": 891,
+   "RSID": "rs12659",
+   "Chromosome": "21",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 892,
+   "RSID": "rs428785",
+   "Chromosome": "21",
+   "Allele": "GG"
+ },
+ {
+   "Id": 893,
+   "RSID": "rs2070401",
+   "Chromosome": "21",
+   "Allele": "GG"
+ },
+ {
+   "Id": 894,
+   "RSID": "rs2071559",
+   "Chromosome": "4",
+   "Allele": "A"
+ },
+ {
+   "Id": 895,
+   "RSID": "rs2231142",
+   "Chromosome": "4",
+   "Allele": "GT + TT"
+ },
+ {
+   "Id": 896,
+   "RSID": "rs2844665",
+   "Chromosome": "6",
+   "Allele": "C"
+ },
+ {
+   "Id": 897,
+   "RSID": "rs3025039",
+   "Chromosome": "6",
+   "Allele": "T"
+ },
+ {
+   "Id": 898,
+   "RSID": "rs3094188",
+   "Chromosome": "6",
+   "Allele": "A"
+ },
+ {
+   "Id": 899,
+   "RSID": "rs1054774",
+   "Chromosome": "9",
+   "Allele": "A"
+ },
+ {
+   "Id": 900,
+   "RSID": "rs5065",
+   "Chromosome": "1",
+   "Allele": "AA"
+ },
+ {
+   "Id": 901,
+   "RSID": "rs6018",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 902,
+   "RSID": "rs951439",
+   "Chromosome": "1",
+   "Allele": "CT"
+ },
+ {
+   "Id": 903,
+   "RSID": "rs951439",
+   "Chromosome": "1",
+   "Allele": "TT"
+ },
+ {
+   "Id": 904,
+   "RSID": "rs951439",
+   "Chromosome": "1",
+   "Allele": "CC"
+ },
+ {
+   "Id": 905,
+   "RSID": "rs1800872",
+   "Chromosome": "1",
+   "Allele": "G"
+ },
+ {
+   "Id": 906,
+   "RSID": "rs1800872",
+   "Chromosome": "1",
+   "Allele": "TT"
+ },
+ {
+   "Id": 907,
+   "RSID": "rs1137101",
+   "Chromosome": "1",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 908,
+   "RSID": "rs1800871",
+   "Chromosome": "1",
+   "Allele": "AA"
+ },
+ {
+   "Id": 909,
+   "RSID": "rs1800871",
+   "Chromosome": "1",
+   "Allele": "A"
+ },
+ {
+   "Id": 910,
+   "RSID": "rs1801131",
+   "Chromosome": "1",
+   "Allele": "GG + GT"
+ },
+ {
+   "Id": 911,
+   "RSID": "rs1801133",
+   "Chromosome": "1",
+   "Allele": "AG"
+ },
+ {
+   "Id": 912,
+   "RSID": "rs1801282",
+   "Chromosome": "3",
+   "Allele": "G"
+ },
+ {
+   "Id": 913,
+   "RSID": "rs1805054",
+   "Chromosome": "1",
+   "Allele": "TT"
+ },
+ {
+   "Id": 914,
+   "RSID": "rs2144297",
+   "Chromosome": "1",
+   "Allele": "T"
+ },
+ {
+   "Id": 915,
+   "RSID": "rs2144300",
+   "Chromosome": "1",
+   "Allele": "C"
+ },
+ {
+   "Id": 916,
+   "RSID": "rs1074145",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 917,
+   "RSID": "rs1799939",
+   "Chromosome": "10",
+   "Allele": "A"
+ },
+ {
+   "Id": 918,
+   "RSID": "rs1801252",
+   "Chromosome": "10",
+   "Allele": "AA + AG"
+ },
+ {
+   "Id": 919,
+   "RSID": "rs1801253",
+   "Chromosome": "10",
+   "Allele": "CC + CG"
+ },
+ {
+   "Id": 920,
+   "RSID": "rs1803274",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 921,
+   "RSID": "rs1969624",
+   "Chromosome": "3",
+   "Allele": "T"
+ },
+ {
+   "Id": 922,
+   "RSID": "rs2031920",
+   "Chromosome": "10",
+   "Allele": "C"
+ },
+ {
+   "Id": 923,
+   "RSID": "rs2273697",
+   "Chromosome": "10",
+   "Allele": "AG"
+ },
+ {
+   "Id": 924,
+   "RSID": "rs2357928",
+   "Chromosome": "10",
+   "Allele": "AG"
+ },
+ {
+   "Id": 925,
+   "RSID": "rs2357928",
+   "Chromosome": "10",
+   "Allele": "AA"
+ },
+ {
+   "Id": 926,
+   "RSID": "rs3740065",
+   "Chromosome": "10",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 927,
+   "RSID": "rs10848635",
+   "Chromosome": "12",
+   "Allele": "A"
+ },
+ {
+   "Id": 928,
+   "RSID": "rs6313",
+   "Chromosome": "13",
+   "Allele": "AG + GG"
+ },
+ {
+   "Id": 929,
+   "RSID": "rs6314",
+   "Chromosome": "13",
+   "Allele": "GG"
+ },
+ {
+   "Id": 930,
+   "RSID": "rs510335",
+   "Chromosome": "13",
+   "Allele": "T"
+ },
+ {
+   "Id": 931,
+   "RSID": "rs7412",
+   "Chromosome": "19",
+   "Allele": "CC"
+ },
+ {
+   "Id": 932,
+   "RSID": "rs7412",
+   "Chromosome": "19",
+   "Allele": "T"
+ },
+ {
+   "Id": 933,
+   "RSID": "rs3745274",
+   "Chromosome": "19",
+   "Allele": "GG"
+ }
+]

@@ -1,0 +1,1527 @@
+[
+  {
+    "Id": 1,
+    "Name": "alendronate",
+    "Structure": null
+  },
+  {
+    "Id": 2,
+    "Name": "acyclovir",
+    "Structure": null
+  },
+  {
+    "Id": 3,
+    "Name": "albuterol",
+    "Structure": null
+  },
+  {
+    "Id": 4,
+    "Name": "albuterol sulfate",
+    "Structure": null
+  },
+  {
+    "Id": 5,
+    "Name": "alclometasone dipropionate",
+    "Structure": null
+  },
+  {
+    "Id": 6,
+    "Name": "alfuzosin",
+    "Structure": null
+  },
+  {
+    "Id": 7,
+    "Name": "alitretinoin",
+    "Structure": null
+  },
+  {
+    "Id": 8,
+    "Name": "allopurinol",
+    "Structure": null
+  },
+  {
+    "Id": 9,
+    "Name": "alprazolam",
+    "Structure": null
+  },
+  {
+    "Id": 10,
+    "Name": "altretamine",
+    "Structure": null
+  },
+  {
+    "Id": 11,
+    "Name": "amiodarone",
+    "Structure": null
+  },
+  {
+    "Id": 12,
+    "Name": "amitriptyline",
+    "Structure": null
+  },
+  {
+    "Id": 13,
+    "Name": "amlodipine",
+    "Structure": null
+  },
+  {
+    "Id": 14,
+    "Name": "valsartan",
+    "Structure": null
+  },
+  {
+    "Id": 15,
+    "Name": "amlodipine besylate",
+    "Structure": null
+  },
+  {
+    "Id": 16,
+    "Name": "amlodipine",
+    "Structure": null
+  },
+  {
+    "Id": 18,
+    "Name": "hydrochloro thiazide",
+    "Structure": null
+  },
+  {
+    "Id": 19,
+    "Name": "Amlodipine",
+    "Structure": null
+  },
+  {
+    "Id": 20,
+    "Name": "amoxapine",
+    "Structure": null
+  },
+  {
+    "Id": 21,
+    "Name": "anastrazole",
+    "Structure": null
+  },
+  {
+    "Id": 22,
+    "Name": "antihypertensive combinations",
+    "Structure": null
+  },
+  {
+    "Id": 23,
+    "Name": "artificial tears",
+    "Structure": null
+  },
+  {
+    "Id": 24,
+    "Name": "aspirin EC",
+    "Structure": null
+  },
+  {
+    "Id": 25,
+    "Name": "atenolol",
+    "Structure": null
+  },
+  {
+    "Id": 26,
+    "Name": "atenolol",
+    "Structure": null
+  },
+  {
+    "Id": 27,
+    "Name": "atorvastatincalcium",
+    "Structure": null
+  },
+  {
+    "Id": 28,
+    "Name": "augmented betamethasone dipropionate",
+    "Structure": null
+  },
+  {
+    "Id": 29,
+    "Name": "azathioprine",
+    "Structure": null
+  },
+  {
+    "Id": 30,
+    "Name": "azelastine",
+    "Structure": null
+  },
+  {
+    "Id": 31,
+    "Name": "Azelastine nasal spray",
+    "Structure": null
+  },
+  {
+    "Id": 32,
+    "Name": "baclofen",
+    "Structure": null
+  },
+  {
+    "Id": 33,
+    "Name": "Belladonna Alkaloids with Phenobarbital",
+    "Structure": null
+  },
+  {
+    "Id": 34,
+    "Name": "benazepril HCTZ",
+    "Structure": null
+  },
+  {
+    "Id": 35,
+    "Name": "benazepril",
+    "Structure": null
+  },
+  {
+    "Id": 36,
+    "Name": "benzonatate",
+    "Structure": null
+  },
+  {
+    "Id": 37,
+    "Name": "benztropine",
+    "Structure": null
+  },
+  {
+    "Id": 38,
+    "Name": "bethanechol",
+    "Structure": null
+  },
+  {
+    "Id": 39,
+    "Name": "bicalutamide",
+    "Structure": null
+  },
+  {
+    "Id": 40,
+    "Name": "bisoprolol",
+    "Structure": null
+  },
+  {
+    "Id": 41,
+    "Name": "brimonidinetartrate",
+    "Structure": null
+  },
+  {
+    "Id": 42,
+    "Name": "bromocriptine",
+    "Structure": null
+  },
+  {
+    "Id": 43,
+    "Name": "budesonide inhalationsuspension",
+    "Structure": null
+  },
+  {
+    "Id": 44,
+    "Name": "bupropion",
+    "Structure": null
+  },
+  {
+    "Id": 45,
+    "Name": "buspirone",
+    "Structure": null
+  },
+  {
+    "Id": 46,
+    "Name": "Calcitonin-salmon(rDNAorigin)",
+    "Structure": null
+  },
+  {
+    "Id": 47,
+    "Name": "calcitriol",
+    "Structure": null
+  },
+  {
+    "Id": 48,
+    "Name": "calciumacetate",
+    "Structure": null
+  },
+  {
+    "Id": 49,
+    "Name": "candesartancilexetil-hydrochlorothiazide",
+    "Structure": null
+  },
+  {
+    "Id": 50,
+    "Name": "candesartancilextil",
+    "Structure": null
+  },
+  {
+    "Id": 51,
+    "Name": "capsaicin",
+    "Structure": null
+  },
+  {
+    "Id": 52,
+    "Name": "captopril",
+    "Structure": null
+  },
+  {
+    "Id": 53,
+    "Name": "carbamazepine",
+    "Structure": null
+  },
+  {
+    "Id": 54,
+    "Name": "carbidopa/levoSR",
+    "Structure": null
+  },
+  {
+    "Id": 55,
+    "Name": "carbidopa/levo",
+    "Structure": null
+  },
+  {
+    "Id": 56,
+    "Name": "carvedilol",
+    "Structure": null
+  },
+  {
+    "Id": 57,
+    "Name": "cetirizine",
+    "Structure": null
+  },
+  {
+    "Id": 58,
+    "Name": "cevimeline",
+    "Structure": null
+  },
+  {
+    "Id": 59,
+    "Name": "chlordiazepoxide",
+    "Structure": null
+  },
+  {
+    "Id": 60,
+    "Name": "chlorpromazine",
+    "Structure": null
+  },
+  {
+    "Id": 61,
+    "Name": "chlorthalidone",
+    "Structure": null
+  },
+  {
+    "Id": 62,
+    "Name": "cholestyramine",
+    "Structure": null
+  },
+  {
+    "Id": 63,
+    "Name": "cilostazol",
+    "Structure": null
+  },
+  {
+    "Id": 64,
+    "Name": "citalopram",
+    "Structure": null
+  },
+  {
+    "Id": 65,
+    "Name": "clindamycinphosphate",
+    "Structure": null
+  },
+  {
+    "Id": 66,
+    "Name": "clonazepam",
+    "Structure": null
+  },
+  {
+    "Id": 67,
+    "Name": "clonidine",
+    "Structure": null
+  },
+  {
+    "Id": 68,
+    "Name": "clonidine patch",
+    "Structure": null
+  },
+  {
+    "Id": 69,
+    "Name": "clopidogre lbisulfates",
+    "Structure": null
+  },
+  {
+    "Id": 70,
+    "Name": "clotrimazole betamethasone",
+    "Structure": null
+  },
+  {
+    "Id": 71,
+    "Name": "colestipolhcl",
+    "Structure": null
+  },
+  {
+    "Id": 72,
+    "Name": "decitabine",
+    "Structure": null
+  },
+  {
+    "Id": 73,
+    "Name": "Dexmethylphenidate",
+    "Structure": null
+  },
+  {
+    "Id": 74,
+    "Name": "dextroamphetamine sulfate",
+    "Structure": null
+  },
+  {
+    "Id": 75,
+    "Name": "dextroamphetamine-amphetamine",
+    "Structure": null
+  },
+  {
+    "Id": 76,
+    "Name": "dextroamphetamine-amphetamine",
+    "Structure": null
+  },
+  {
+    "Id": 77,
+    "Name": "diazepam",
+    "Structure": null
+  },
+  {
+    "Id": 78,
+    "Name": "diclofenac",
+    "Structure": null
+  },
+  {
+    "Id": 79,
+    "Name": "diclofenac",
+    "Structure": null
+  },
+  {
+    "Id": 80,
+    "Name": "dicyclomine",
+    "Structure": null
+  },
+  {
+    "Id": 81,
+    "Name": "digoxins",
+    "Structure": null
+  },
+  {
+    "Id": 82,
+    "Name": "diltiazem",
+    "Structure": null
+  },
+  {
+    "Id": 83,
+    "Name": "diltiazem HCL",
+    "Structure": null
+  },
+  {
+    "Id": 84,
+    "Name": "diphenoxylate hydrochloride/atropinesulfate",
+    "Structure": null
+  },
+  {
+    "Id": 85,
+    "Name": "diphenoxylate/atropine",
+    "Structure": null
+  },
+  {
+    "Id": 86,
+    "Name": "Divalproex",
+    "Structure": null
+  },
+  {
+    "Id": 87,
+    "Name": "donepezil",
+    "Structure": null
+  },
+  {
+    "Id": 88,
+    "Name": "dorzolamide",
+    "Structure": null
+  },
+  {
+    "Id": 89,
+    "Name": "doxazosinmesylate",
+    "Structure": null
+  },
+  {
+    "Id": 90,
+    "Name": "doxepin",
+    "Structure": null
+  },
+  {
+    "Id": 91,
+    "Name": "enalaprilmaleate",
+    "Structure": null
+  },
+  {
+    "Id": 92,
+    "Name": "enalaprilmaleate-hydrochlorothiazides",
+    "Structure": null
+  },
+  {
+    "Id": 93,
+    "Name": "epinephrineautoinjector",
+    "Structure": null
+  },
+  {
+    "Id": 94,
+    "Name": "eplerenone",
+    "Structure": null
+  },
+  {
+    "Id": 95,
+    "Name": "escitalopram oxalate",
+    "Structure": null
+  },
+  {
+    "Id": 96,
+    "Name": "esomeprazole",
+    "Structure": null
+  },
+  {
+    "Id": 97,
+    "Name": "estradiol",
+    "Structure": null
+  },
+  {
+    "Id": 98,
+    "Name": "estropipate",
+    "Structure": null
+  },
+  {
+    "Id": 99,
+    "Name": "eszopiclone",
+    "Structure": null
+  },
+  {
+    "Id": 100,
+    "Name": "etodolac",
+    "Structure": null
+  },
+  {
+    "Id": 101,
+    "Name": "famotidine",
+    "Structure": null
+  },
+  {
+    "Id": 102,
+    "Name": "felodipine ER",
+    "Structure": null
+  },
+  {
+    "Id": 103,
+    "Name": "fenofibrate",
+    "Structure": null
+  },
+  {
+    "Id": 104,
+    "Name": "fenofibrate,micronized",
+    "Structure": null
+  },
+  {
+    "Id": 105,
+    "Name": "fenofibric acid",
+    "Structure": null
+  },
+  {
+    "Id": 106,
+    "Name": "ferrous sulfate",
+    "Structure": null
+  },
+  {
+    "Id": 107,
+    "Name": "finasteride",
+    "Structure": null
+  },
+  {
+    "Id": 108,
+    "Name": "flecainide acetate",
+    "Structure": null
+  },
+  {
+    "Id": 109,
+    "Name": "fluconazole",
+    "Structure": null
+  },
+  {
+    "Id": 110,
+    "Name": "fluoxetine",
+    "Structure": null
+  },
+  {
+    "Id": 111,
+    "Name": "fluticasonenasalspray",
+    "Structure": null
+  },
+  {
+    "Id": 112,
+    "Name": "fluvoxamine maleate",
+    "Structure": null
+  },
+  {
+    "Id": 113,
+    "Name": "folic acid",
+    "Structure": null
+  },
+  {
+    "Id": 114,
+    "Name": "furosemide",
+    "Structure": null
+  },
+  {
+    "Id": 115,
+    "Name": "gabapentin",
+    "Structure": null
+  },
+  {
+    "Id": 116,
+    "Name": "gemfibrozil",
+    "Structure": null
+  },
+  {
+    "Id": 117,
+    "Name": "glimepiride",
+    "Structure": null
+  },
+  {
+    "Id": 118,
+    "Name": "glipizide",
+    "Structure": null
+  },
+  {
+    "Id": 119,
+    "Name": "glyburide",
+    "Structure": null
+  },
+  {
+    "Id": 120,
+    "Name": "glyburide/Metformin",
+    "Structure": null
+  },
+  {
+    "Id": 121,
+    "Name": "guanfacine",
+    "Structure": null
+  },
+  {
+    "Id": 122,
+    "Name": "halobetasol",
+    "Structure": null
+  },
+  {
+    "Id": 123,
+    "Name": "haloperidol",
+    "Structure": null
+  },
+  {
+    "Id": 124,
+    "Name": "hydralazine",
+    "Structure": null
+  },
+  {
+    "Id": 126,
+    "Name": "hydrocortisone",
+    "Structure": null
+  },
+  {
+    "Id": 127,
+    "Name": "hydroxychloroquine",
+    "Structure": null
+  },
+  {
+    "Id": 128,
+    "Name": "hydroxyurea",
+    "Structure": null
+  },
+  {
+    "Id": 129,
+    "Name": "hydroxyzine",
+    "Structure": null
+  },
+  {
+    "Id": 130,
+    "Name": "hydroxyzine pamoate",
+    "Structure": null
+  },
+  {
+    "Id": 131,
+    "Name": "ibuprofen",
+    "Structure": null
+  },
+  {
+    "Id": 132,
+    "Name": "imatinib",
+    "Structure": null
+  },
+  {
+    "Id": 133,
+    "Name": "indapamide",
+    "Structure": null
+  },
+  {
+    "Id": 134,
+    "Name": "Ipratropium",
+    "Structure": null
+  },
+  {
+    "Id": 135,
+    "Name": "irbesartan",
+    "Structure": null
+  },
+  {
+    "Id": 136,
+    "Name": "irbesartan-hydrochlorothiazide",
+    "Structure": null
+  },
+  {
+    "Id": 137,
+    "Name": "isoniazid",
+    "Structure": null
+  },
+  {
+    "Id": 138,
+    "Name": "isosorbide mononitrate",
+    "Structure": null
+  },
+  {
+    "Id": 139,
+    "Name": "ketotifen fumerate",
+    "Structure": null
+  },
+  {
+    "Id": 140,
+    "Name": "labetalol",
+    "Structure": null
+  },
+  {
+    "Id": 141,
+    "Name": "lactulose",
+    "Structure": null
+  },
+  {
+    "Id": 142,
+    "Name": "lamotrigine",
+    "Structure": null
+  },
+  {
+    "Id": 143,
+    "Name": "lansoprazole",
+    "Structure": null
+  },
+  {
+    "Id": 144,
+    "Name": "latanoprost",
+    "Structure": null
+  },
+  {
+    "Id": 145,
+    "Name": "letrozole",
+    "Structure": null
+  },
+  {
+    "Id": 146,
+    "Name": "levalbuterol",
+    "Structure": null
+  },
+  {
+    "Id": 147,
+    "Name": "levetiracetam",
+    "Structure": null
+  },
+  {
+    "Id": 148,
+    "Name": "levocetirizine dihydrochloride",
+    "Structure": null
+  },
+  {
+    "Id": 149,
+    "Name": "levothyroxine",
+    "Structure": null
+  },
+  {
+    "Id": 150,
+    "Name": "lidocaine",
+    "Structure": null
+  },
+  {
+    "Id": 151,
+    "Name": "lidocaine patch",
+    "Structure": null
+  },
+  {
+    "Id": 152,
+    "Name": "liothyronine sodium",
+    "Structure": null
+  },
+  {
+    "Id": 153,
+    "Name": "lisinopril",
+    "Structure": null
+  },
+  {
+    "Id": 154,
+    "Name": "lisinopril/HCTZ",
+    "Structure": null
+  },
+  {
+    "Id": 155,
+    "Name": "Lithium Carbonate",
+    "Structure": null
+  },
+  {
+    "Id": 156,
+    "Name": "loperamide",
+    "Structure": null
+  },
+  {
+    "Id": 157,
+    "Name": "loratadine",
+    "Structure": null
+  },
+  {
+    "Id": 158,
+    "Name": "lorazepam",
+    "Structure": null
+  },
+  {
+    "Id": 159,
+    "Name": "losartan potassium",
+    "Structure": null
+  },
+  {
+    "Id": 160,
+    "Name": "lovastatin",
+    "Structure": null
+  },
+  {
+    "Id": 161,
+    "Name": "loxapine",
+    "Structure": null
+  },
+  {
+    "Id": 162,
+    "Name": "magnesium oxide",
+    "Structure": null
+  },
+  {
+    "Id": 163,
+    "Name": "meclizine",
+    "Structure": null
+  },
+  {
+    "Id": 164,
+    "Name": "medroxyprogesterone acetate",
+    "Structure": null
+  },
+  {
+    "Id": 165,
+    "Name": "meloxicam",
+    "Structure": null
+  },
+  {
+    "Id": 166,
+    "Name": "memantine",
+    "Structure": null
+  },
+  {
+    "Id": 167,
+    "Name": "metformin",
+    "Structure": null
+  },
+  {
+    "Id": 168,
+    "Name": "methimazoles",
+    "Structure": null
+  },
+  {
+    "Id": 169,
+    "Name": "methocarbamol",
+    "Structure": null
+  },
+  {
+    "Id": 170,
+    "Name": "methotrexate",
+    "Structure": null
+  },
+  {
+    "Id": 171,
+    "Name": "methylphenidate",
+    "Structure": null
+  },
+  {
+    "Id": 172,
+    "Name": "methylphenidate hcl",
+    "Structure": null
+  },
+  {
+    "Id": 173,
+    "Name": "methylphenidate",
+    "Structure": null
+  },
+  {
+    "Id": 174,
+    "Name": "metoclopramide",
+    "Structure": null
+  },
+  {
+    "Id": 175,
+    "Name": "metolazone",
+    "Structure": null
+  },
+  {
+    "Id": 176,
+    "Name": "metoprolol succinate/hctz",
+    "Structure": null
+  },
+  {
+    "Id": 177,
+    "Name": "metoprolol tartrate",
+    "Structure": null
+  },
+  {
+    "Id": 178,
+    "Name": "micronized glyburide",
+    "Structure": null
+  },
+  {
+    "Id": 179,
+    "Name": "midodrine",
+    "Structure": null
+  },
+  {
+    "Id": 180,
+    "Name": "minocycline",
+    "Structure": null
+  },
+  {
+    "Id": 181,
+    "Name": "minocycline HCL",
+    "Structure": null
+  },
+  {
+    "Id": 182,
+    "Name": "mirtazapine",
+    "Structure": null
+  },
+  {
+    "Id": 183,
+    "Name": "mometasone furoate",
+    "Structure": null
+  },
+  {
+    "Id": 184,
+    "Name": "montelukast sodium",
+    "Structure": null
+  },
+  {
+    "Id": 185,
+    "Name": "mycophenolate mofetil",
+    "Structure": null
+  },
+  {
+    "Id": 186,
+    "Name": "nabumetone",
+    "Structure": null
+  },
+  {
+    "Id": 187,
+    "Name": "naproxen sodium",
+    "Structure": null
+  },
+  {
+    "Id": 188,
+    "Name": "naproxen",
+    "Structure": null
+  },
+  {
+    "Id": 189,
+    "Name": "niacin",
+    "Structure": null
+  },
+  {
+    "Id": 190,
+    "Name": "niacin SA",
+    "Structure": null
+  },
+  {
+    "Id": 191,
+    "Name": "nifedipine",
+    "Structure": null
+  },
+  {
+    "Id": 192,
+    "Name": "nifedipine CR",
+    "Structure": null
+  },
+  {
+    "Id": 193,
+    "Name": "nilutamide",
+    "Structure": null
+  },
+  {
+    "Id": 194,
+    "Name": "nitroglycerin",
+    "Structure": null
+  },
+  {
+    "Id": 195,
+    "Name": "norethindrone",
+    "Structure": null
+  },
+  {
+    "Id": 196,
+    "Name": "norethindrone/ethinylestradiol",
+    "Structure": null
+  },
+  {
+    "Id": 197,
+    "Name": "nortriptyline",
+    "Structure": null
+  },
+  {
+    "Id": 198,
+    "Name": "nyamyc",
+    "Structure": null
+  },
+  {
+    "Id": 199,
+    "Name": "nystatin",
+    "Structure": null
+  },
+  {
+    "Id": 200,
+    "Name": "olanzapine",
+    "Structure": null
+  },
+  {
+    "Id": 201,
+    "Name": "omega-3-acidethylesters",
+    "Structure": null
+  },
+  {
+    "Id": 202,
+    "Name": "omeprazole",
+    "Structure": null
+  },
+  {
+    "Id": 203,
+    "Name": "ondansetron",
+    "Structure": null
+  },
+  {
+    "Id": 204,
+    "Name": "ondansetron",
+    "Structure": null
+  },
+  {
+    "Id": 205,
+    "Name": "oxandrolone",
+    "Structure": null
+  },
+  {
+    "Id": 206,
+    "Name": "oxybutynin",
+    "Structure": null
+  },
+  {
+    "Id": 207,
+    "Name": "pantoprazole sodium",
+    "Structure": null
+  },
+  {
+    "Id": 208,
+    "Name": "paroxetine",
+    "Structure": null
+  },
+  {
+    "Id": 209,
+    "Name": "pentoxifylline",
+    "Structure": null
+  },
+  {
+    "Id": 210,
+    "Name": "perphenazine",
+    "Structure": null
+  },
+  {
+    "Id": 211,
+    "Name": "Phenobarbital",
+    "Structure": null
+  },
+  {
+    "Id": 212,
+    "Name": "phenoxybenzamine",
+    "Structure": null
+  },
+  {
+    "Id": 213,
+    "Name": "phenytoin sodium",
+    "Structure": null
+  },
+  {
+    "Id": 214,
+    "Name": "pioglitazone hydrochloride",
+    "Structure": null
+  },
+  {
+    "Id": 215,
+    "Name": "PNV Prenatal Multivitamin Plus Iron",
+    "Structure": null
+  },
+  {
+    "Id": 216,
+    "Name": "potassium chloride",
+    "Structure": null
+  },
+  {
+    "Id": 217,
+    "Name": "potassium Iodide",
+    "Structure": null
+  },
+  {
+    "Id": 218,
+    "Name": "pramipexole dihydrochlorides",
+    "Structure": null
+  },
+  {
+    "Id": 219,
+    "Name": "pravastatin",
+    "Structure": null
+  },
+  {
+    "Id": 220,
+    "Name": "prazosin",
+    "Structure": null
+  },
+  {
+    "Id": 221,
+    "Name": "prednisone",
+    "Structure": null
+  },
+  {
+    "Id": 222,
+    "Name": "primidone",
+    "Structure": null
+  },
+  {
+    "Id": 223,
+    "Name": "prochlorperazine",
+    "Structure": null
+  },
+  {
+    "Id": 224,
+    "Name": "progesterone",
+    "Structure": null
+  },
+  {
+    "Id": 225,
+    "Name": "propafenone hydrochloride",
+    "Structure": null
+  },
+  {
+    "Id": 226,
+    "Name": "propranolol",
+    "Structure": null
+  },
+  {
+    "Id": 227,
+    "Name": "propylthiouracil",
+    "Structure": null
+  },
+  {
+    "Id": 228,
+    "Name": "pyridostigmine bromide",
+    "Structure": null
+  },
+  {
+    "Id": 229,
+    "Name": "quetiapine fumarate",
+    "Structure": null
+  },
+  {
+    "Id": 230,
+    "Name": "quinapril",
+    "Structure": null
+  },
+  {
+    "Id": 231,
+    "Name": "quinapril/HCTZ",
+    "Structure": null
+  },
+  {
+    "Id": 232,
+    "Name": "rabeprazole sodium",
+    "Structure": null
+  },
+  {
+    "Id": 233,
+    "Name": "raloxifene",
+    "Structure": null
+  },
+  {
+    "Id": 234,
+    "Name": "ramipril",
+    "Structure": null
+  },
+  {
+    "Id": 235,
+    "Name": "ranolazine",
+    "Structure": null
+  },
+  {
+    "Id": 236,
+    "Name": "repaglinide",
+    "Structure": null
+  },
+  {
+    "Id": 237,
+    "Name": "risedronate sodium",
+    "Structure": null
+  },
+  {
+    "Id": 238,
+    "Name": "risperidone",
+    "Structure": null
+  },
+  {
+    "Id": 239,
+    "Name": "rivastigmine tartrate",
+    "Structure": null
+  },
+  {
+    "Id": 240,
+    "Name": "ropinirole hydrochloride",
+    "Structure": null
+  },
+  {
+    "Id": 241,
+    "Name": "rosuvastatin calcium",
+    "Structure": null
+  },
+  {
+    "Id": 242,
+    "Name": "sertraline",
+    "Structure": null
+  },
+  {
+    "Id": 243,
+    "Name": "sildenafil citrate",
+    "Structure": null
+  },
+  {
+    "Id": 244,
+    "Name": "sildenefil citrate",
+    "Structure": null
+  },
+  {
+    "Id": 245,
+    "Name": "simvastatins",
+    "Structure": null
+  },
+  {
+    "Id": 246,
+    "Name": "spironolactone",
+    "Structure": null
+  },
+  {
+    "Id": 247,
+    "Name": "spironolactone and hydrochlorothiazide",
+    "Structure": null
+  },
+  {
+    "Id": 248,
+    "Name": "sprintec",
+    "Structure": null
+  },
+  {
+    "Id": 249,
+    "Name": "SSKI",
+    "Structure": null
+  },
+  {
+    "Id": 250,
+    "Name": "sucralfate",
+    "Structure": null
+  },
+  {
+    "Id": 251,
+    "Name": "sulfamethoxazole",
+    "Structure": null
+  },
+  {
+    "Id": 252,
+    "Name": "sulfasalazine",
+    "Structure": null
+  },
+  {
+    "Id": 253,
+    "Name": "sumatriptan succinate",
+    "Structure": null
+  },
+  {
+    "Id": 254,
+    "Name": "tacrolimus",
+    "Structure": null
+  },
+  {
+    "Id": 255,
+    "Name": "tamoxifencitrate",
+    "Structure": null
+  },
+  {
+    "Id": 256,
+    "Name": "tamsulosinhydro chloride",
+    "Structure": null
+  },
+  {
+    "Id": 257,
+    "Name": "telmisartan",
+    "Structure": null
+  },
+  {
+    "Id": 258,
+    "Name": "temazepam",
+    "Structure": null
+  },
+  {
+    "Id": 259,
+    "Name": "terazosin",
+    "Structure": null
+  },
+  {
+    "Id": 260,
+    "Name": "testosterone cypionate",
+    "Structure": null
+  },
+  {
+    "Id": 261,
+    "Name": "testosterone",
+    "Structure": null
+  },
+  {
+    "Id": 262,
+    "Name": "testosterone",
+    "Structure": null
+  },
+  {
+    "Id": 263,
+    "Name": "Tizanidine",
+    "Structure": null
+  },
+  {
+    "Id": 264,
+    "Name": "tolterodine tartrate",
+    "Structure": null
+  },
+  {
+    "Id": 265,
+    "Name": "topiramate",
+    "Structure": null
+  },
+  {
+    "Id": 266,
+    "Name": "topiramate",
+    "Structure": null
+  },
+  {
+    "Id": 267,
+    "Name": "tramadol hydrochloride/acetaminophens",
+    "Structure": null
+  },
+  {
+    "Id": 268,
+    "Name": "tramadol",
+    "Structure": null
+  },
+  {
+    "Id": 269,
+    "Name": "trandolapril",
+    "Structure": null
+  },
+  {
+    "Id": 270,
+    "Name": "tranylcypromine",
+    "Structure": null
+  },
+  {
+    "Id": 271,
+    "Name": "trazodone",
+    "Structure": null
+  },
+  {
+    "Id": 272,
+    "Name": "tri-previfem",
+    "Structure": null
+  },
+  {
+    "Id": 273,
+    "Name": "tri-sprintec",
+    "Structure": null
+  },
+  {
+    "Id": 274,
+    "Name": "triamcinolone",
+    "Structure": null
+  },
+  {
+    "Id": 275,
+    "Name": "triamcinolone",
+    "Structure": null
+  },
+  {
+    "Id": 276,
+    "Name": "triamterene",
+    "Structure": null
+  },
+  {
+    "Id": 277,
+    "Name": "triamterene/HCTZ",
+    "Structure": null
+  },
+  {
+    "Id": 278,
+    "Name": "trifluoperazineHCl",
+    "Structure": null
+  },
+  {
+    "Id": 279,
+    "Name": "trospiumchloride",
+    "Structure": null
+  },
+  {
+    "Id": 280,
+    "Name": "valacyclovir",
+    "Structure": null
+  },
+  {
+    "Id": 281,
+    "Name": "valproic acid",
+    "Structure": null
+  },
+  {
+    "Id": 282,
+    "Name": "valsartan hydrochloride",
+    "Structure": null
+  },
+  {
+    "Id": 283,
+    "Name": "valsartan hydrochlorothiazide",
+    "Structure": null
+  },
+  {
+    "Id": 284,
+    "Name": "venlafaxine",
+    "Structure": null
+  },
+  {
+    "Id": 285,
+    "Name": "verapamil",
+    "Structure": null
+  },
+  {
+    "Id": 286,
+    "Name": "verapamil",
+    "Structure": null
+  },
+  {
+    "Id": 287,
+    "Name": "Vitamin B Complex",
+    "Structure": null
+  },
+  {
+    "Id": 288,
+    "Name": "Vitamin B-6",
+    "Structure": null
+  },
+  {
+    "Id": 289,
+    "Name": "Vitamin D3",
+    "Structure": null
+  },
+  {
+    "Id": 290,
+    "Name": "Vitamin D3",
+    "Structure": null
+  },
+  {
+    "Id": 291,
+    "Name": "warfarin",
+    "Structure": null
+  },
+  {
+    "Id": 292,
+    "Name": "zafirlukast",
+    "Structure": null
+  },
+  {
+    "Id": 293,
+    "Name": "zaleplon",
+    "Structure": null
+  },
+  {
+    "Id": 294,
+    "Name": "zidovudine",
+    "Structure": null
+  },
+  {
+    "Id": 295,
+    "Name": "Zolpidem",
+    "Structure": null
+  },
+  {
+    "Id": 296,
+    "Name": "verapamil",
+    "Structure": null
+  },
+  {
+    "Id": 297,
+    "Name": "verapamil",
+    "Structure": null
+  },
+  {
+    "Id": 298,
+    "Name": "verapamil SR",
+    "Structure": null
+  },
+  {
+    "Id": 299,
+    "Name": "Vitamin B Complex",
+    "Structure": null
+  },
+  {
+    "Id": 300,
+    "Name": "Vitamin B-6",
+    "Structure": null
+  },
+  {
+    "Id": 301,
+    "Name": "Vitamin D3",
+    "Structure": null
+  },
+  {
+    "Id": 302,
+    "Name": "Vitamin D3",
+    "Structure": null
+  },
+  {
+    "Id": 303,
+    "Name": "warfarin sodium",
+    "Structure": null
+  },
+  {
+    "Id": 304,
+    "Name": "zafirlukast",
+    "Structure": null
+  },
+  {
+    "Id": 305,
+    "Name": "zaleplon",
+    "Structure": null
+  },
+  {
+    "Id": 306,
+    "Name": "zidovudine",
+    "Structure": null
+  },
+  {
+    "Id": 307,
+    "Name": "Zolpidem",
+    "Structure": null
+  }
+]
